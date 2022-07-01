@@ -1,0 +1,48 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"astorpiazzolla",
+         "name":"Astor Piazzolla",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"tango",
+         "name":"Stickers Tango",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"frasescumbia",
+         "name":"Frases Cumbia y Cuarteto",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"frasesrock",
+         "name":"Stickers Frases Rock",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"musicos2",
+         "name":"Musicos Populares",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"musicos1",
+         "name":"Stickers Musicos Rock",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"rock",
+         "name":"Stickers Rock Nacional",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }
+   ]
+}

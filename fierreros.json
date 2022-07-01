@@ -1,0 +1,24 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"tc",
+         "name":"Stickers TC",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"motos",
+         "name":"Stickers Motos",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"autos",
+         "name":"Stickers Autos Clasicos",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }
+   ]
+}

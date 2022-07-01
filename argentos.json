@@ -1,0 +1,174 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"turismo2",
+         "name":"Turismo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"mate4",
+         "name":"Mate 4",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"mafalda2",
+         "name":"Mafalda 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"delpotro1",
+         "name":"Gracias Delpo",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"matea6",
+         "name":"Mate Animados (6)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"matea7",
+         "name":"Mate Animados (7)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"matea1",
+         "name":"Mate Animados (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"matea2",
+         "name":"Mate Animados (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"matea3",
+         "name":"Mate Animados (3)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"matea4",
+         "name":"Mate Animados (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"matea5",
+         "name":"Mate Animados (5)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"vamoslospi",
+         "name":"Vamos los Pi",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"leonas2021",
+         "name":"Leonas",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"vintage2",
+         "name":"Stickers Vintage (2)",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"vintage1",
+         "name":"Stickers Vintage (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"mate2",
+         "name":"Stickers Mate 2",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"mate",
+         "name":"Stickers Mate",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"panaderia",
+         "name":"Stickers Panaderia",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"costumbres",
+         "name":"Stickers Costumbres",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"yerba",
+         "name":"Stickers Yerba",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"mafalda",
+         "name":"Stickers Mafalda",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"mate3",
+         "name":"Pack Mates 3",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"golosinas",
+         "name":"Stickers Golosinas",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"turismo",
+         "name":"Stickers Turismo",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"argentinidad1",
+         "name":"Stickers Argentinidad 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"argentinidad2",
+         "name":"Stickers Argentinidad 2",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"provincias",
+         "name":"Stickers Provincias",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"billetes",
+         "name":"Stickers Billetes",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }
+   ]
+}
