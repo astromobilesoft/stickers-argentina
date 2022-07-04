@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"dolara1",
+         "name":"Dolar (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"dolar",
+         "name":"Dolar (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"memes13",
          "name":"Memes 13",
          "animated_sticker_pack":false,
@@ -2617,12 +2629,6 @@
          "name":"Pack Masterchef",
          "animated_sticker_pack":false,
          "stickers":"29"
-      },
-      {
-         "identifier":"dolar",
-         "name":"Pack Dolar",
-         "animated_sticker_pack":false,
-         "stickers":"16"
       },
       {
          "identifier":"olmedo",

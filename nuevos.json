@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"dolara1",
+         "name":"Dolar (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"dolar",
+         "name":"Dolar (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"semanadeladulzura1",
          "name":"Semana Dulzura (1)",
          "animated_sticker_pack":false,
@@ -1885,12 +1897,6 @@
          "name":"Stickers Rugby Argentino",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },
-      {
-         "identifier":"dolar",
-         "name":"Stickers dolar",
-         "animated_sticker_pack":false,
-         "stickers":"16"
       },
       {
          "identifier":"mafalda",
