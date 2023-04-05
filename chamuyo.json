@@ -1,264 +1,288 @@
 {
-   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
-   "ios_app_store_link":"",
-   "sticker_packs":[
-      {
-         "identifier":"lenguajeinclusivo",
-         "name":"Lenguaje Inclusivo",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"findelargo1",
-         "name":"Finde Largo",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"bebeshablando",
-         "name":"Bebés Hablando",
-         "animated_sticker_pack":true,
-         "stickers":"14"
-      },
-      {
-         "identifier":"buenasnoches1",
-         "name":"Buenas Noches",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"buendia3",
-         "name":"Buen Día 3",
-         "animated_sticker_pack":false,
-         "stickers":"13"
-      },
-      {
-         "identifier":"frases5",
-         "name":"Frases 5",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"frases6",
-         "name":"Frases 6",
-         "animated_sticker_pack":false,
-         "stickers":"16"
-      },
-      {
-         "identifier":"frases4",
-         "name":"Frases 4",
-         "animated_sticker_pack":false,
-         "stickers":"22"
-      },
-      {
-         "identifier":"pensamientos",
-         "name":"Pensamientos",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"wordle1",
-         "name":"Wordle",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"verano",
-         "name":"Stickers Verano",
-         "animated_sticker_pack":false,
-         "stickers":"16"
-      },
-      {
-         "identifier":"clima",
-         "name":"Stickers Clima",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"cartelessalida",
-         "name":"Carteles Salida",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"frases3",
-         "name":"Frases (3)",
-         "animated_sticker_pack":false,
-         "stickers":"12"
-      },
-      {
-         "identifier":"carpincho2",
-         "name":"Carpinchos",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"frases2",
-         "name":"Frases (2)",
-         "animated_sticker_pack":false,
-         "stickers":"17"
-      },
-      {
-         "identifier":"memes1",
-         "name":"Memes (1)",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"tokio2020",
-         "name":"Juegos Olimpicos",
-         "animated_sticker_pack":false,
-         "stickers":"28"
-      },
-      {
-         "identifier":"comidaslocas1",
-         "name":"Comidas Locas",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"otono",
-         "name":"Feliz Otono",
-         "animated_sticker_pack":false,
-         "stickers":"9"
-      },
-      {
-         "identifier":"cartelesraros2",
-         "name":"Carteles Raros 2",
-         "animated_sticker_pack":false,
-         "stickers":"25"
-      },
-      {
-         "identifier":"cronicatv",
-         "name":"Cronica TV",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"frasescristianas",
-         "name":"Frases Cristianas",
-         "animated_sticker_pack":false,
-         "stickers":"21"
-      },
-      {
-         "identifier":"cartelesraros",
-         "name":"Carteles Raros",
-         "animated_sticker_pack":false,
-         "stickers":"28"
-      },
-      {
-         "identifier":"animalessemanales",
-         "name":"Animales Semanales",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"mensajesamor",
-         "name":"Mensajes Amor",
-         "animated_sticker_pack":false,
-         "stickers":"24"
-      },
-      {
-         "identifier":"osospracticos",
-         "name":"Osos Practicos",
-         "animated_sticker_pack":false,
-         "stickers":"24"
-      },
-      {
-         "identifier":"frutasgraciosas",
-         "name":"Frutas Graciosas",
-         "animated_sticker_pack":false,
-         "stickers":"25"
-      },
-      {
-         "identifier":"muffins",
-         "name":"Muffins Simpaticos",
-         "animated_sticker_pack":false,
-         "stickers":"26"
-      },
-      {
-         "identifier":"unicornios",
-         "name":"Mensajes Unicornios",
-         "animated_sticker_pack":false,
-         "stickers":"25"
-      },
-      {
-         "identifier":"semanales",
-         "name":"Semanales",
-         "animated_sticker_pack":false,
-         "stickers":"27"
-      },
-      {
-         "identifier":"tiernoselefantes",
-         "name":"Tiernos Elefantes",
-         "animated_sticker_pack":false,
-         "stickers":"24"
-      },
-      {
-         "identifier":"massaludos",
-         "name":"Mas Saludos",
-         "animated_sticker_pack":false,
-         "stickers":"26"
-      },
-      {
-         "identifier":"saludoscortos",
-         "name":"Saludos Cortos",
-         "animated_sticker_pack":false,
-         "stickers":"24"
-      },
-      {
-         "identifier":"dolar",
-         "name":"Stickers dolar",
-         "animated_sticker_pack":false,
-         "stickers":"16"
-      },
-      {
-         "identifier":"saludos2",
-         "name":"Pack Saludos 2",
-         "animated_sticker_pack":false,
-         "stickers":"28"
-      },
-      {
-         "identifier":"amor",
-         "name":"Stickers Amor",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"cartas1",
-         "name":"Stickers Cartas 1",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"cartas2",
-         "name":"Stickers Cartas 2",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"estacion",
-         "name":"Stickers Invierno",
-         "animated_sticker_pack":false,
-         "stickers":"27"
-      },
-      {
-         "identifier":"oficios",
-         "name":"Stickers Oficios",
-         "animated_sticker_pack":false,
-         "stickers":"26"
-      },
-      {
-         "identifier":"frases",
-         "name":"Stickers Frases",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"adolescentes",
-         "name":"Stickers Adolescentes",
-         "animated_sticker_pack":false,
-         "stickers":"24"
-      }
-   ]
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "palabrasargentinas",
+      "name": "Palabras Argentas",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "conejoanimado1",
+      "name": "Conejo Animado",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "verano2023",
+      "name": "verano 2023",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "findelargo1",
+      "name": "Finde Largo",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "minionsanimados",
+      "name": "Minions Animados",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "lenguajeinclusivo",
+      "name": "Lenguaje Inclusivo",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "bebeshablando",
+      "name": "Bebés Hablando",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "buenasnoches1",
+      "name": "Buenas Noches",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "buendia3",
+      "name": "Buen Día 3",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "frases5",
+      "name": "Frases 5",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "frases6",
+      "name": "Frases 6",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "frases4",
+      "name": "Frases 4",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "pensamientos",
+      "name": "Pensamientos",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "wordle1",
+      "name": "Wordle",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "verano",
+      "name": "Stickers Verano",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "clima",
+      "name": "Stickers Clima",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "cartelessalida",
+      "name": "Carteles Salida",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "frases3",
+      "name": "Frases (3)",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "carpincho2",
+      "name": "Carpinchos",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "frases2",
+      "name": "Frases (2)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "memes1",
+      "name": "Memes (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tokio2020",
+      "name": "Juegos Olimpicos",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "comidaslocas1",
+      "name": "Comidas Locas",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "otono",
+      "name": "Feliz Otono",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "cartelesraros2",
+      "name": "Carteles Raros 2",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "cronicatv",
+      "name": "Cronica TV",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "frasescristianas",
+      "name": "Frases Cristianas",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "cartelesraros",
+      "name": "Carteles Raros",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "animalessemanales",
+      "name": "Animales Semanales",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "mensajesamor",
+      "name": "Mensajes Amor",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "osospracticos",
+      "name": "Osos Practicos",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "frutasgraciosas",
+      "name": "Frutas Graciosas",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "muffins",
+      "name": "Muffins Simpaticos",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "unicornios",
+      "name": "Mensajes Unicornios",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "semanales",
+      "name": "Semanales",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "tiernoselefantes",
+      "name": "Tiernos Elefantes",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "massaludos",
+      "name": "Mas Saludos",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "saludoscortos",
+      "name": "Saludos Cortos",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "dolar",
+      "name": "Stickers dolar",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "saludos2",
+      "name": "Pack Saludos 2",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "amor",
+      "name": "Stickers Amor",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "cartas1",
+      "name": "Stickers Cartas 1",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "cartas2",
+      "name": "Stickers Cartas 2",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "estacion",
+      "name": "Stickers Invierno",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "oficios",
+      "name": "Stickers Oficios",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "frases",
+      "name": "Stickers Frases",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "adolescentes",
+      "name": "Stickers Adolescentes",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    }
+  ]
 }

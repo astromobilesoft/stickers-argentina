@@ -1,36 +1,36 @@
 {
-   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
-   "ios_app_store_link":"",
-   "sticker_packs":[
-      {
-         "identifier":"recados",
-         "name":"Pack Recados",
-         "animated_sticker_pack":false,
-         "stickers":"18"
-      },
-      {
-         "identifier":"acciones",
-         "name":"Stickers Acciones",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"transporte",
-         "name":"Transporte Publico",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"transporte2",
-         "name":"Transporte Publico 2",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"quehaceres",
-         "name":"Stickers Quehaceres",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      }
-   ]
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "recados",
+      "name": "Pack Recados",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "acciones",
+      "name": "Stickers Acciones",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "transporte",
+      "name": "Transporte Publico",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "transporte2",
+      "name": "Transporte Publico 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "quehaceres",
+      "name": "Stickers Quehaceres",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    }
+  ]
 }
