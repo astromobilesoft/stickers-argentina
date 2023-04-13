@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "diadelbeso1",
+      "name": "Día del Beso 1",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "diadelbeso2",
+      "name": "Día del Beso 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "17marzoa1",
       "name": "San Patricio",
       "animated_sticker_pack": true,
@@ -427,18 +439,6 @@
       "name": "Día Escarapela (2)",
       "animated_sticker_pack": true,
       "stickers": "6"
-    },
-    {
-      "identifier": "diadelbeso1",
-      "name": "Dia del Beso 1",
-      "animated_sticker_pack": true,
-      "stickers": "16"
-    },
-    {
-      "identifier": "diadelbeso2",
-      "name": "Dia del Beso 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
     },
     {
       "identifier": "plantasconfrases1",
