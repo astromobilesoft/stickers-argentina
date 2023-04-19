@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "dolar420",
+      "name": "Dolar $420",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
       "identifier": "fernandobaezsosa",
       "name": "Justicia Por Fernando",
       "animated_sticker_pack": false,
