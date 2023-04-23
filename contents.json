@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "frasesrandom1",
+      "name": "Frases Random (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "frasesrandom2",
+      "name": "Frases Random (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "frasesrandom3",
+      "name": "Frases Random (3)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "dolar420",
       "name": "Dolar $420",
       "animated_sticker_pack": false,
