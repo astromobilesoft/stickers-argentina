@@ -3,8 +3,14 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "29abril2",
+      "name": "Día del Animal (2)",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
       "identifier": "29abril1",
-      "name": "Día del Animal",
+      "name": "Día del Animal (1)",
       "animated_sticker_pack": false,
       "stickers": "10"
     },
