@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "1mayoa",
+      "name": "Dia del Trabajador",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
       "identifier": "diadelbeso1",
       "name": "Día del Beso 1",
       "animated_sticker_pack": true,
@@ -889,12 +895,6 @@
       "name": "Dibujos Frases 2",
       "animated_sticker_pack": true,
       "stickers": "16"
-    },
-    {
-      "identifier": "1mayoa",
-      "name": "Dia del Trabajador",
-      "animated_sticker_pack": true,
-      "stickers": "14"
     },
     {
       "identifier": "frasesanimadas3",
