@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "superclasicoriver",
+      "name": "Superclasico (1)",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "superclasicoboca",
+      "name": "Superclasico (2)",
+      "animated_sticker_pack": false,
+      "stickers": "7"
+    },
+    {
       "identifier": "lafiestadelcampeon",
       "name": "La Fiesta del Campeón (1)",
       "animated_sticker_pack": false,
