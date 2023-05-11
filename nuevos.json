@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "11mayo",
+      "name": "Himno Nacional",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "8mayo1",
+      "name": "Día Virgen Lujan",
+      "animated_sticker_pack": false,
+      "stickers": "8"
+    },
+    {
       "identifier": "superclasicoriver",
       "name": "Superclasico (1)",
       "animated_sticker_pack": false,
@@ -1693,18 +1705,6 @@
       "name": "Día Escarapela (2)",
       "animated_sticker_pack": true,
       "stickers": "6"
-    },
-    {
-      "identifier": "11mayo",
-      "name": "Himno Nacional",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "8mayo1",
-      "name": "Día Virgen Lujan",
-      "animated_sticker_pack": false,
-      "stickers": "8"
     },
     {
       "identifier": "buenasnoches1",
