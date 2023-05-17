@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "18mayoa1",
+      "name": "Día Escarapela (2)",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
       "identifier": "1mayoa",
       "name": "Día del Trabajador",
       "animated_sticker_pack": true,
@@ -439,12 +445,6 @@
       "name": "Animados Cariñosos",
       "animated_sticker_pack": true,
       "stickers": "12"
-    },
-    {
-      "identifier": "18mayoa1",
-      "name": "Día Escarapela (2)",
-      "animated_sticker_pack": true,
-      "stickers": "6"
     },
     {
       "identifier": "plantasconfrases1",

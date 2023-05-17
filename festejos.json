@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "18mayo1",
+      "name": "Día Escarapela (1)",
+      "animated_sticker_pack": false,
+      "stickers": "6"
+    },
+    {
+      "identifier": "18mayoa1",
+      "name": "Día Escarapela (2)",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
       "identifier": "17mayo",
       "name": "Día de la Armada",
       "animated_sticker_pack": false,
@@ -649,18 +661,6 @@
       "name": "25 de Mayo (1)",
       "animated_sticker_pack": false,
       "stickers": "13"
-    },
-    {
-      "identifier": "18mayo1",
-      "name": "Día Escarapela (1)",
-      "animated_sticker_pack": false,
-      "stickers": "6"
-    },
-    {
-      "identifier": "18mayoa1",
-      "name": "Día Escarapela (2)",
-      "animated_sticker_pack": true,
-      "stickers": "6"
     },
     {
       "identifier": "semanadelalfajor",
