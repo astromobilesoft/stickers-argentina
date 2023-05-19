@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "2023mundialsub20a",
+      "name": "Mundial Sub-20 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "2023mundialsub20b",
+      "name": "Mundial Sub-20 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
       "identifier": "superclasicoriver",
       "name": "Superclasico (1)",
       "animated_sticker_pack": false,
