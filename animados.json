@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "25mayoa2",
+      "name": "25 de Mayo (3)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "25mayoa1",
+      "name": "25 de Mayo (2)",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
       "identifier": "18mayoa1",
       "name": "Día Escarapela (2)",
       "animated_sticker_pack": true,
@@ -427,18 +439,6 @@
       "name": "Bebés Hablando",
       "animated_sticker_pack": true,
       "stickers": "14"
-    },
-    {
-      "identifier": "25mayoa2",
-      "name": "25 de Mayo (3)",
-      "animated_sticker_pack": true,
-      "stickers": "7"
-    },
-    {
-      "identifier": "25mayoa1",
-      "name": "25 de Mayo (2)",
-      "animated_sticker_pack": true,
-      "stickers": "6"
     },
     {
       "identifier": "animadoscarinosos1",
