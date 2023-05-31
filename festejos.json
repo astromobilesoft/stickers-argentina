@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "31mayo1",
+      "name": "Día Mundial sin Tabaco (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "31mayoa1",
+      "name": "Día Mundial sin Tabaco (2)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
       "identifier": "28mayo1",
       "name": "Día Maestra Jardinera",
       "animated_sticker_pack": false,
