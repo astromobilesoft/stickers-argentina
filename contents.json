@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "2junio",
+      "name": "Día del Bombero",
+      "animated_sticker_pack": false,
+      "stickers": "7"
+    },
+    {
       "identifier": "31mayo1",
       "name": "Día Mundial sin Tabaco (1)",
       "animated_sticker_pack": false,
@@ -3901,12 +3907,6 @@
       "name": "Pack Dichos 3",
       "animated_sticker_pack": false,
       "stickers": "22"
-    },
-    {
-      "identifier": "2junio",
-      "name": "Pack Dia del Bombero",
-      "animated_sticker_pack": false,
-      "stickers": "7"
     },
     {
       "identifier": "frasestwitter",
