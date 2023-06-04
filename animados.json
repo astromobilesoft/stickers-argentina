@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "buendiaa1",
+      "name": "Buen Día (3)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
       "identifier": "31mayoa1",
       "name": "Día Mundial sin Tabaco (2)",
       "animated_sticker_pack": true,
