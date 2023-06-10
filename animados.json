@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "cottonbunny1",
+      "name": "Conejito Animado",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "sweetcreamemoji1",
+      "name": "Conejito Dulce",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "buendiaa1",
       "name": "Buen Día (3)",
       "animated_sticker_pack": true,
