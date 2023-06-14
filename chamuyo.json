@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "frasescorazon2",
+      "name": "Frases Corazon (2)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "frasescorazon3",
+      "name": "Frases Corazon (3)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
       "identifier": "emojisfrases2",
       "name": "Emojis Frases (2)",
       "animated_sticker_pack": false,

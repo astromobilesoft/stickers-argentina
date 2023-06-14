@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "emojiscutekawaii1",
+      "name": "Emoji Kawaii (1)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "emojiscutekawaii2",
+      "name": "Emoji Kawaii (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
       "identifier": "cottonbunny1",
       "name": "Conejito Animado",
       "animated_sticker_pack": true,
