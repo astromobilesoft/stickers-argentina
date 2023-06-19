@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "20junioa2",
+      "name": "Dia de la Bandera (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "20junioa3",
+      "name": "Dia de la Bandera (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "20junioa1",
       "name": "Día de la Bandera (1)",
       "animated_sticker_pack": true,

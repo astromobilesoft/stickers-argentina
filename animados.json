@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "20junioa2",
+      "name": "Dia de la Bandera (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "20junioa3",
+      "name": "Dia de la Bandera (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "20junioa1",
+      "name": "Dia de la Bandera (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
       "identifier": "emojiscutekawaii1",
       "name": "Emoji Kawaii (1)",
       "animated_sticker_pack": true,
@@ -811,12 +829,6 @@
       "name": "Momentos Nuestros",
       "animated_sticker_pack": true,
       "stickers": "16"
-    },
-    {
-      "identifier": "20junioa1",
-      "name": "Dia de la Bandera (2)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
     },
     {
       "identifier": "cronicatva1",
