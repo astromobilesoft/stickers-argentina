@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "invierno1",
+      "name": "Invierno (1)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "inviernoa1",
+      "name": "Invierno (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "20junioa2",
       "name": "Dia de la Bandera (3)",
       "animated_sticker_pack": true,
@@ -1995,78 +2007,6 @@
       "stickers": "14"
     },
     {
-      "identifier": "estacion",
-      "name": "Invierno (1)",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "inviernoa1",
-      "name": "Invierno (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "diadelpadre",
-      "name": "Dia del Padre (1)",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "diadelpadrea1",
-      "name": "Dia del Padre (2)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "diadelpadrea2",
-      "name": "Dia del Padre (3)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "diadelpadrea3",
-      "name": "Dia del Padre (4)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "diadelpadrea4",
-      "name": "Dia del Padre (5)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "diadelpadrea5",
-      "name": "Dia del Padre (6)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "diadelpadrea6",
-      "name": "Dia del Padre (7)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "diadelpadrea7",
-      "name": "Dia del Padre (8)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "diadelpadre2",
-      "name": "Dia del Padre (9)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "diadelpadre3",
-      "name": "Dia del Padre (10)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
       "identifier": "bebeshablando",
       "name": "Bebés Hablando",
       "animated_sticker_pack": true,
@@ -3193,18 +3133,6 @@
       "name": "Feliz Cumple (2)",
       "animated_sticker_pack": true,
       "stickers": "12"
-    },
-    {
-      "identifier": "inviernoa1",
-      "name": "Invierno (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "estacion",
-      "name": "Invierno (1)",
-      "animated_sticker_pack": false,
-      "stickers": "27"
     },
     {
       "identifier": "copaamerica2021c4",

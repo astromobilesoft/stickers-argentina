@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "inviernoa1",
+      "name": "Invierno (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "20junioa2",
       "name": "Dia de la Bandera (3)",
       "animated_sticker_pack": true,
@@ -785,12 +791,6 @@
     {
       "identifier": "felizcumple2",
       "name": "Feliz Cumple (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "inviernoa1",
-      "name": "Invierno (2)",
       "animated_sticker_pack": true,
       "stickers": "12"
     },
