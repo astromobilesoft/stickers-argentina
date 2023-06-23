@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "disco1",
+      "name": "Disco",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "frasesanimadas11",
+      "name": "Frases Animadas 11",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "frasesanimadas12",
+      "name": "Frases Animadas 12",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "inviernoa1",
       "name": "Invierno (2)",
       "animated_sticker_pack": true,
