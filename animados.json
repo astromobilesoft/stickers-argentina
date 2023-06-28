@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "28junioa1",
+      "name": "Día del Orgullo (2)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
       "identifier": "disco1",
       "name": "Disco",
       "animated_sticker_pack": true,
@@ -469,12 +475,6 @@
       "name": "Semana Dulzura (2)",
       "animated_sticker_pack": true,
       "stickers": "17"
-    },
-    {
-      "identifier": "28junioa1",
-      "name": "Día del Orgullo (2)",
-      "animated_sticker_pack": true,
-      "stickers": "7"
     },
     {
       "identifier": "diadelpadrea1",

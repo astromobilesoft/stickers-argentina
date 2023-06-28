@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "28junio",
+      "name": "Día del Orgullo (1)",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "28junioa1",
+      "name": "Día del Orgullo (2)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
       "identifier": "lajoaqui1",
       "name": "La Joaqui",
       "animated_sticker_pack": false,
@@ -2011,18 +2023,6 @@
       "name": "Memes Julio (3)",
       "animated_sticker_pack": false,
       "stickers": "15"
-    },
-    {
-      "identifier": "28junio",
-      "name": "Día del Orgullo (1)",
-      "animated_sticker_pack": false,
-      "stickers": "11"
-    },
-    {
-      "identifier": "28junioa1",
-      "name": "Dia del Orgullo (2)",
-      "animated_sticker_pack": true,
-      "stickers": "7"
     },
     {
       "identifier": "lenguajeinclusivo",
