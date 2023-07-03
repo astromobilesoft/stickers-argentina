@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "semanadeladulzura1",
+      "name": "Semana Dulzura (1)",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "semanadeladulzuraa1",
+      "name": "Semana Dulzura (2)",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
       "identifier": "memesjulio4",
       "name": "Memes Julio (4)",
       "animated_sticker_pack": false,
@@ -2017,18 +2029,6 @@
       "name": "Locomotora Olivera",
       "animated_sticker_pack": true,
       "stickers": "14"
-    },
-    {
-      "identifier": "semanadeladulzura1",
-      "name": "Semana Dulzura (1)",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "semanadeladulzuraa1",
-      "name": "Semana Dulzura (2)",
-      "animated_sticker_pack": true,
-      "stickers": "17"
     },
     {
       "identifier": "lenguajeinclusivo",
