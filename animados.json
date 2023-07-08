@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "9julioa1",
+      "name": "Día de la Independencia (2)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
       "identifier": "28junioa1",
       "name": "Día del Orgullo (2)",
       "animated_sticker_pack": true,
@@ -457,12 +463,6 @@
       "name": "Frutas Animadas",
       "animated_sticker_pack": true,
       "stickers": "13"
-    },
-    {
-      "identifier": "9julioa1",
-      "name": "Dia de la Independencia (2)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
     },
     {
       "identifier": "dolara1",
