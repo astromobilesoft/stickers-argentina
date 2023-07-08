@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "cutepolarbear1",
+      "name": "Oso Polar (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "cutepolarbear2",
+      "name": "Oso Polar (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "spoiledrabbit1",
+      "name": "Frases Conejo (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "spoiledrabbit2",
+      "name": "Frases Conejo (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "apellidos1",
       "name": "Apellidos Comunes",
       "animated_sticker_pack": false,
