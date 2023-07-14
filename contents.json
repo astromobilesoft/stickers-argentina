@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "maradona8",
+      "name": "Maradona Animados",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "memes18",
+      "name": "Memes 18",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "9julio",
       "name": "Día de la Independencia (1)",
       "animated_sticker_pack": false,
