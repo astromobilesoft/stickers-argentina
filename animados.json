@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "20julioa2",
+      "name": "Día del Amigo (3)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "20julioa1",
+      "name": "Día del Amigo (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
       "identifier": "9julioa1",
       "name": "Día de la Independencia (2)",
       "animated_sticker_pack": true,
@@ -787,18 +799,6 @@
       "name": "Pandas",
       "animated_sticker_pack": true,
       "stickers": "14"
-    },
-    {
-      "identifier": "20julioa2",
-      "name": "Dia del Amigo (3)",
-      "animated_sticker_pack": true,
-      "stickers": "16"
-    },
-    {
-      "identifier": "20julioa1",
-      "name": "Dia del Amigo (2)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
     },
     {
       "identifier": "felizcumple1",
