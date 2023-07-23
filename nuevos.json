@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "worldcup2023portrait1",
+      "name": "Selección Femenina (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2023portrait2",
+      "name": "Selección Femenina (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
       "identifier": "messiinter1",
       "name": "Messi Inter Miami (2)",
       "animated_sticker_pack": false,
