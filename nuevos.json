@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "diadelaninez1",
+      "name": "Día de la Niñez (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "diadelanineza1",
+      "name": "Día de la Niñez (2)",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "diadelnino",
+      "name": "Día de la Niñez (3)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
       "identifier": "javiermilei1",
       "name": "Javier Milei (1)",
       "animated_sticker_pack": true,
@@ -31,6 +49,12 @@
       "name": "17 de Agosto",
       "animated_sticker_pack": false,
       "stickers": "10"
+    },
+    {
+      "identifier": "13agosto",
+      "name": "Día del Zurdo",
+      "animated_sticker_pack": false,
+      "stickers": "8"
     },
     {
       "identifier": "elecciones2023b",
@@ -1944,30 +1968,6 @@
       "identifier": "27deagosto",
       "name": "Día de la Radio",
       "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "diadelaninez1",
-      "name": "Día de la Niñez (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "diadelanineza1",
-      "name": "Día de la Niñez (2)",
-      "animated_sticker_pack": true,
-      "stickers": "17"
-    },
-    {
-      "identifier": "diadelnino",
-      "name": "Día de la Niñez (3)",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "13agosto",
-      "name": "Día del Zurdo",
-      "animated_sticker_pack": false,
       "stickers": "8"
     },
     {
