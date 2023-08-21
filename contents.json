@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "messiinter2",
+      "name": "Messi Inter Campeón",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
       "identifier": "diadelaninez1",
       "name": "Día de la Ninez (1)",
       "animated_sticker_pack": false,
