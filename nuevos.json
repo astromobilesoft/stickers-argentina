@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "frases7",
+      "name": "Frases 7",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "frases8",
+      "name": "Frases 8",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "comercios",
       "name": "Para Comerciantes (1)",
       "animated_sticker_pack": false,

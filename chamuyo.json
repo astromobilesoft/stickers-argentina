@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "frases7",
+      "name": "Frases 7",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "frases8",
+      "name": "Frases 8",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "cutepolarbear1",
       "name": "Oso Polar (1)",
       "animated_sticker_pack": false,
