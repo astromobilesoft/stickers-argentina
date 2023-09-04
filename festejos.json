@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "4septiembre",
+      "name": "Día de la Secretaria",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
       "identifier": "diadelaninez1",
       "name": "Día de la Niñez (1)",
       "animated_sticker_pack": false,
@@ -877,12 +883,6 @@
       "name": "Dia del Metalurgico",
       "animated_sticker_pack": false,
       "stickers": "6"
-    },
-    {
-      "identifier": "4septiembre",
-      "name": "Pack 4 de Septiembre",
-      "animated_sticker_pack": false,
-      "stickers": "20"
     },
     {
       "identifier": "diadelacerveza",
