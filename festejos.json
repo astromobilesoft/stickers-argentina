@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "7septiembre",
+      "name": "Día del Metalurgico",
+      "animated_sticker_pack": false,
+      "stickers": "6"
+    },
+    {
       "identifier": "5septiembre",
       "name": "Día de los Hermanos",
       "animated_sticker_pack": false,
@@ -881,12 +887,6 @@
     {
       "identifier": "3octubre",
       "name": "Dia del Odontologo",
-      "animated_sticker_pack": false,
-      "stickers": "6"
-    },
-    {
-      "identifier": "7septiembre",
-      "name": "Dia del Metalurgico",
       "animated_sticker_pack": false,
       "stickers": "6"
     },
