@@ -3,6 +3,36 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "riverplate2023",
+      "name": "River Plate",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bocajuniors2023",
+      "name": "Boca Juniors",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "racingclub2023",
+      "name": "Racing Club",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "independiente2023",
+      "name": "Independiente",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "sanlorenzo2023",
+      "name": "San Lorenzo",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
       "identifier": "mundialderugby2023a",
       "name": "Los Pumas 2023 (1)",
       "animated_sticker_pack": false,
