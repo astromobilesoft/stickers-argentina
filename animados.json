@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "flordesaludos",
+      "name": "Flor de Saludos",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "20julioa2",
       "name": "Día del Amigo (3)",
       "animated_sticker_pack": true,
