@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "21septiembrea1",
+      "name": "21 de Septiembre (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
       "identifier": "20septiembrea1",
       "name": "Día del Jubilado (2)",
       "animated_sticker_pack": true,
@@ -427,12 +433,6 @@
       "name": "Día de la Madre (5)",
       "animated_sticker_pack": true,
       "stickers": "6"
-    },
-    {
-      "identifier": "21septiembrea1",
-      "name": "21 de Septiembre (2)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
     },
     {
       "identifier": "muchasgracias1",
