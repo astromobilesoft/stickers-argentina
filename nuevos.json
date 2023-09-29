@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "frases11",
+      "name": "Frases (11)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "frases12",
+      "name": "Frases (12)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
       "identifier": "turismo4",
       "name": "Turismo (4)",
       "animated_sticker_pack": false,
