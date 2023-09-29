@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "peregrinacionlujan",
+      "name": "Virgen Luján",
+      "animated_sticker_pack": false,
+      "stickers": "8"
+    },
+    {
       "identifier": "frases11",
       "name": "Frases (11)",
       "animated_sticker_pack": false,
@@ -2119,12 +2125,6 @@
       "name": "Día del Odontologo",
       "animated_sticker_pack": false,
       "stickers": "6"
-    },
-    {
-      "identifier": "peregrinacionlujan",
-      "name": "Virgen Luján",
-      "animated_sticker_pack": false,
-      "stickers": "8"
     },
     {
       "identifier": "28septiembre",
