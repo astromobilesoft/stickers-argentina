@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "12octubre",
+      "name": "Día de la Diversidad",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
       "identifier": "peregrinacionlujan",
       "name": "Virgen Luján",
       "animated_sticker_pack": false,
@@ -169,6 +175,12 @@
       "name": "Día del Amigo (1)",
       "animated_sticker_pack": false,
       "stickers": "17"
+    },
+    {
+      "identifier":"13julio",
+      "name":"Día del Electricista",
+      "animated_sticker_pack":false,
+      "stickers":"9"
     },
     {
       "identifier": "vacacionesdeinvierno",
@@ -733,12 +745,6 @@
       "name": "Día de la Madre (5)",
       "animated_sticker_pack": true,
       "stickers": "6"
-    },
-    {
-      "identifier": "12octubre",
-      "name": "Día de la Diversidad",
-      "animated_sticker_pack": false,
-      "stickers": "12"
     },
     {
       "identifier": "28septiembre",
