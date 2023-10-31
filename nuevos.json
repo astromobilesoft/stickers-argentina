@@ -39,10 +39,46 @@
          "stickers":"10"
       },
       {
-      "identifier": "virginialago",
-      "name": "Virginia Lago",
-      "animated_sticker_pack": false,
-      "stickers": "14"
+         "identifier":"messiballondor2023",
+         "name":"Messi Balon de Oro 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"emilianomartinez1",
+         "name":"Dibu Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"respuestascortas1",
+         "name":"Respuestas Cortas",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"rilakkuma1",
+         "name":"Rilakkuma",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"iorio",
+         "name":"Ricardo Iorio",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"moriacasana4",
+         "name":"Moria Casan (4)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier": "virginialago",
+         "name": "Virginia Lago",
+         "animated_sticker_pack": false,
+         "stickers": "14"
       },
       {
          "identifier":"12octubre",
