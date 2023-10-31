@@ -9,10 +9,10 @@
          "stickers":"28"
       },
       {
-         "identifier":"halloween2",
-         "name":"Halloween (2)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
+         "identifier": "halloween2",
+         "name": "Halloween 2",
+         "animated_sticker_pack": true,
+         "stickers": "9"
       },
       {
          "identifier":"halloween3",
