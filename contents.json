@@ -3,94 +3,40 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"messiballondor2023",
-         "name":"Messi Balon de Oro 2023",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"emilianomartinez1",
-         "name":"Dibu Martinez",
+         "identifier":"halloween",
+         "name":"Halloween (1)",
          "animated_sticker_pack":false,
          "stickers":"28"
       },
       {
-         "identifier":"noquis29a",
-         "name":"Noquis 29 (1)",
-         "animated_sticker_pack":false,
+         "identifier":"halloween2",
+         "name":"Halloween (2)",
+         "animated_sticker_pack":true,
          "stickers":"10"
       },
       {
-         "identifier":"noquis29b",
-         "name":"Noquis 29 (2)",
-         "animated_sticker_pack":false,
-         "stickers":"14"
-      },
-      {
-         "identifier":"respuestascortas1",
-         "name":"Respuestas Cortas",
-         "animated_sticker_pack":false,
-         "stickers":"24"
-      },
-      {
-         "identifier":"rilakkuma1",
-         "name":"Rilakkuma",
-         "animated_sticker_pack":false,
-         "stickers":"22"
-      },
-      {
-         "identifier":"iorio",
-         "name":"Ricardo Iorio",
-         "animated_sticker_pack":false,
-         "stickers":"21"
-      },
-      {
-         "identifier":"moriacasana3",
-         "name":"Moria Casan (3)",
+         "identifier":"halloween3",
+         "name":"Halloween (3)",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"13"
       },
       {
-         "identifier":"moriacasana4",
-         "name":"Moria Casan (4)",
-         "animated_sticker_pack":true,
-         "stickers":"15"
-      },
-      {
-         "identifier":"17octubre",
-         "name":"Día de Lealtad Peronista",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"diadelamadre",
-         "name":"Día de la Madre (1)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"diadelamadrea1",
-         "name":"Día de la Madre (2)",
+         "identifier":"halloween4",
+         "name":"Halloween (4)",
          "animated_sticker_pack":true,
          "stickers":"12"
       },
       {
-         "identifier":"diadelamadrea2",
-         "name":"Día de la Madre (3)",
+         "identifier":"halloween5",
+         "name":"Halloween (5)",
          "animated_sticker_pack":true,
-         "stickers":"11"
+         "stickers":"12"
       },
       {
-         "identifier":"diadelamadrea3",
-         "name":"Día de la Madre (4)",
+         "identifier":"halloween6",
+         "name":"Halloween (6)",
          "animated_sticker_pack":true,
-         "stickers":"15"
-      },
-      {
-         "identifier":"diadelamadrea4",
-         "name":"Día de la Madre (5)",
-         "animated_sticker_pack":true,
-         "stickers":"6"
+         "stickers":"10"
       },
       {
          "identifier":"virginialago",
@@ -155,6 +101,18 @@
       {
          "identifier":"frases14",
          "name":"Frases (14)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"noquis29a",
+         "name":"Noquis 29 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"noquis29b",
+         "name":"Noquis 29 (2)",
          "animated_sticker_pack":false,
          "stickers":"14"
       },
@@ -2173,6 +2131,42 @@
          "name":"Boca Campeón LPF 2022",
          "animated_sticker_pack":false,
          "stickers":"23"
+      },
+      {
+         "identifier":"17octubre",
+         "name":"Día de Lealtad Peronista",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelamadre",
+         "name":"Día de la Madre (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"diadelamadrea1",
+         "name":"Día de la Madre (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"diadelamadrea2",
+         "name":"Día de la Madre (3)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"diadelamadrea3",
+         "name":"Día de la Madre (4)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelamadrea4",
+         "name":"Día de la Madre (5)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
       },
       {
          "identifier":"gallardoadios1",
@@ -4375,6 +4369,12 @@
          "name":"Pack Lucchetti",
          "animated_sticker_pack":false,
          "stickers":"24"
+      },
+      {
+         "identifier":"iorio",
+         "name":"Stickers Ricardo Iorio",
+         "animated_sticker_pack":false,
+         "stickers":"21"
       },
       {
          "identifier":"tango",
