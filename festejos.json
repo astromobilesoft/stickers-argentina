@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"7noviembre",
+         "name":"7 de Noviembre",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"lgbt1",
+         "name":"LGBT 1",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"lgbt2",
+         "name":"LGBT 2",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"6noviembre",
+         "name":"Día del Bancario",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"halloween",
          "name":"Halloween (1)",
          "animated_sticker_pack":false,
@@ -721,24 +745,6 @@
          "name":"7 de Noviembre",
          "animated_sticker_pack":false,
          "stickers":"10"
-      },
-      {
-         "identifier":"lgbt1",
-         "name":"LGBT 1",
-         "animated_sticker_pack":false,
-         "stickers":"26"
-      },
-      {
-         "identifier":"lgbt2",
-         "name":"LGBT 2",
-         "animated_sticker_pack":false,
-         "stickers":"13"
-      },
-      {
-         "identifier":"6noviembre",
-         "name":"Dia del Bancario",
-         "animated_sticker_pack":false,
-         "stickers":"8"
       },
       {
          "identifier":"halloween",
