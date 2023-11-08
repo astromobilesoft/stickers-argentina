@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"taylorswift3",
+         "name":"Taylor Swift (3)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"taylorswifta1",
+         "name":"Taylor Swift (4)",
+         "animated_sticker_pack":true,
+         "stickers":"19"
+      },
+      {
+         "identifier":"taylorswift2",
+         "name":"Taylor Swift (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"taylorswift1",
+         "name":"Taylor Swift (1)",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
          "identifier":"7noviembre",
          "name":"7 de Noviembre",
          "animated_sticker_pack":false,
@@ -901,18 +925,6 @@
          "name":"Conejito Dulce",
          "animated_sticker_pack":true,
          "stickers":"15"
-      },
-      {
-         "identifier":"taylorswift2",
-         "name":"Taylor Swift (2)",
-         "animated_sticker_pack":false,
-         "stickers":"23"
-      },
-      {
-         "identifier":"taylorswift1",
-         "name":"Taylor Swift (1)",
-         "animated_sticker_pack":false,
-         "stickers":"12"
       },
       {
          "identifier":"buendiaa1",

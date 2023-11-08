@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"taylorswift3",
+         "name":"Taylor Swift (3)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"taylorswifta1",
+         "name":"Taylor Swift (4)",
+         "animated_sticker_pack":true,
+         "stickers":"19"
+      },
+      {
          "identifier":"7noviembre",
          "name":"7 de Noviembre",
          "animated_sticker_pack":false,
