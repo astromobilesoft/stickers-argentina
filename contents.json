@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"10noviembre",
+         "name":"10 de Noviembre (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"10noviembrea1",
+         "name":"10 de Noviembre (2)",
+         "animated_sticker_pack":true,
+         "stickers":"19"
+      },
+      {
          "identifier":"taylorswift1",
          "name":"Taylor Swift (1)",
          "animated_sticker_pack":false,
@@ -2161,12 +2173,6 @@
          "name":"Selección 2022",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },
-      {
-         "identifier":"10noviembre",
-         "name":"10 de Noviembre",
-         "animated_sticker_pack":false,
-         "stickers":"10"
       },
       {
          "identifier":"halloween",

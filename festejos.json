@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"10noviembre",
+         "name":"10 de Noviembre (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"10noviembrea1",
+         "name":"10 de Noviembre (2)",
+         "animated_sticker_pack":true,
+         "stickers":"19"
+      },
+      {
          "identifier":"7noviembre",
          "name":"7 de Noviembre",
          "animated_sticker_pack":false,
@@ -733,18 +745,6 @@
          "name":"Stickers Mate",
          "animated_sticker_pack":false,
          "stickers":"28"
-      },
-      {
-         "identifier":"10noviembre",
-         "name":"10 de Noviembre",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"7noviembre",
-         "name":"7 de Noviembre",
-         "animated_sticker_pack":false,
-         "stickers":"10"
       },
       {
          "identifier":"halloween",
