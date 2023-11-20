@@ -9,6 +9,12 @@
          "stickers":"9"
       },
       {
+         "identifier":"matea8",
+         "name":"Mate Animados (8)",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
          "identifier":"sergiomassa1",
          "name":"Sergio Massa (1)",
          "animated_sticker_pack":false,
