@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"20noviembre",
+         "name":"Día Soberania Nacional",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
          "identifier":"10noviembre",
          "name":"10 de Noviembre (1)",
          "animated_sticker_pack":false,
@@ -947,12 +953,6 @@
       {
          "identifier":"30noviembre",
          "name":"Hincha San Lorenzo",
-         "animated_sticker_pack":false,
-         "stickers":"9"
-      },
-      {
-         "identifier":"20noviembre",
-         "name":"Dia Soberania Nacional",
          "animated_sticker_pack":false,
          "stickers":"9"
       },
