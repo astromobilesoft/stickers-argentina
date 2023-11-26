@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"javiermilei5",
+         "name":"Javier Milei (5)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
          "identifier":"matea8",
          "name":"Mate Animados (8)",
          "animated_sticker_pack":true,
