@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"3diciembre",
+         "name":"Día del Médico (1)",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
+         "identifier":"3diciembrea1",
+         "name":"Día del Médico (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"mate",
          "name":"Mate 1",
          "animated_sticker_pack":false,
@@ -1885,18 +1897,6 @@
          "name":"Previa Octavos",
          "animated_sticker_pack":false,
          "stickers":"16"
-      },
-      {
-         "identifier":"3diciembre",
-         "name":"Dia del Medico (1)",
-         "animated_sticker_pack":false,
-         "stickers":"7"
-      },
-      {
-         "identifier":"3diciembrea1",
-         "name":"Dia del Medico (2)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
       },
       {
          "identifier":"worldcup2022GCpolandvsargentina1",
