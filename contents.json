@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"8diciembre",
+         "name":"Día de la Virgen",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"6diciembre",
+         "name":"Dia del Gaucho",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"3diciembre",
          "name":"Día del Médico (1)",
          "animated_sticker_pack":false,
@@ -1869,12 +1881,6 @@
          "stickers":"10"
       },
       {
-         "identifier":"8diciembre",
-         "name":"Día de la Virgen",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
          "identifier":"worldcup2022o2a",
          "name":"Argentina vs Australia (1)",
          "animated_sticker_pack":false,
@@ -3055,12 +3061,6 @@
          "name":"Día del Hincha de Boca",
          "animated_sticker_pack":false,
          "stickers":"12"
-      },
-      {
-         "identifier":"6diciembre",
-         "name":"Dia del Gaucho",
-         "animated_sticker_pack":false,
-         "stickers":"10"
       },
       {
          "identifier":"mickey2",
