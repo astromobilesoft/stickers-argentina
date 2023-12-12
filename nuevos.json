@@ -9,6 +9,12 @@
          "stickers":"20"
       },
       {
+         "identifier":"12diciembre",
+         "name":"Día del Hincha de Boca",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
          "identifier":"8diciembre",
          "name":"Día de la Virgen",
          "animated_sticker_pack":false,
@@ -2893,12 +2899,6 @@
          "name":"River Campeon 2021",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },
-      {
-         "identifier":"12diciembre",
-         "name":"Día del Hincha de Boca",
-         "animated_sticker_pack":false,
-         "stickers":"12"
       },
       {
          "identifier":"mickey2",
