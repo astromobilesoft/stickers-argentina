@@ -3,6 +3,96 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022w1",
+         "name":"Argentina Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022w2",
+         "name":"Argentina Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w3",
+         "name":"Argentina Campeón (3)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w4",
+         "name":"Argentina Campeón (4)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"worldcup2022w5",
+         "name":"Argentina Campeón (5)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022w6",
+         "name":"Argentina Campeón (6)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022w7",
+         "name":"Argentina Campeón (7)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w8",
+         "name":"Argentina Campeón (8)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w9",
+         "name":"Argentina Campeón (9)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w10",
+         "name":"Argentina Campeón (10)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w11",
+         "name":"Argentina Campeón (11)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w12",
+         "name":"Argentina Campeón (12)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w13",
+         "name":"Argentina Campeón (13)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022w14",
+         "name":"Argentina Campeón (14)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w15",
+         "name":"Argentina Campeón (15)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"tercerasmarcas1",
          "name":"Terceras Marcas",
          "animated_sticker_pack":false,
@@ -1515,12 +1605,6 @@
          "stickers":"8"
       },
       {
-         "identifier":"worldcup2022w15",
-         "name":"Argentina Campeón (15)",
-         "animated_sticker_pack":false,
-         "stickers":"18"
-      },
-      {
          "identifier":"findelargo1",
          "name":"Finde Largo",
          "animated_sticker_pack":false,
@@ -1579,12 +1663,6 @@
          "name":"Guillermo Francella",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },
-      {
-         "identifier":"worldcup2022w14",
-         "name":"Argentina Campeón (14)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
       },
       {
          "identifier":"shakira2",
@@ -1717,66 +1795,6 @@
          "name":"Arbol de Navidad",
          "animated_sticker_pack":true,
          "stickers":"12"
-      },
-      {
-         "identifier":"worldcup2022w13",
-         "name":"Argentina Campeón Caravana",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"worldcup2022w7",
-         "name":"Argentina Campeón (7)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"worldcup2022w8",
-         "name":"Argentina Campeón (8)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"worldcup2022w9",
-         "name":"Argentina Campeón (9)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"worldcup2022w5",
-         "name":"Argentina Campeón (5)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
-      },
-      {
-         "identifier":"worldcup2022w6",
-         "name":"Argentina Campeón (6)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
-      },
-      {
-         "identifier":"worldcup2022w4",
-         "name":"Argentina Campeón (4)",
-         "animated_sticker_pack":false,
-         "stickers":"16"
-      },
-      {
-         "identifier":"worldcup2022w3",
-         "name":"Argentina Campeón (3)",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"worldcup2022w2",
-         "name":"Argentina Campeón (2)",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"worldcup2022w1",
-         "name":"Argentina Campeón",
-         "animated_sticker_pack":false,
-         "stickers":"14"
       },
       {
          "identifier":"worldcup2022store",
