@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"anonuevo24a1",
+         "name":"Feliz Año 2024 (1)",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"anonuevo24a2",
+         "name":"Feliz Año 2024 (2)",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
          "identifier":"verano2023",
          "name":"Verano (2)",
          "animated_sticker_pack":true,
