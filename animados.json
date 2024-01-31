@@ -21,6 +21,12 @@
          "stickers":"11"
       },
       {
+         "identifier":"calor4",
+         "name":"Calor (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"reyesmagosa2",
          "name":"Reyes Magos (2)",
          "animated_sticker_pack":true,
