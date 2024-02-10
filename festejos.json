@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"carnavala1",
+         "name":"Carnaval",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"carnavala1",
+         "name":"Carnaval",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
          "identifier":"reyesmagosa2",
          "name":"Reyes Magos (2)",
          "animated_sticker_pack":true,
@@ -745,12 +757,6 @@
          "name":"Día Hincha de Racing",
          "animated_sticker_pack":false,
          "stickers":"16"
-      },
-      {
-         "identifier":"carnavala1",
-         "name":"Carnaval",
-         "animated_sticker_pack":true,
-         "stickers":"17"
       },
       {
          "identifier":"14febreroa1",
