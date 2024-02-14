@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"14febreroa1",
+         "name":"San Valentín",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"14febrero",
+         "name":"Día de los Enamorados",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"carnavala1",
          "name":"Carnaval",
          "animated_sticker_pack":true,
@@ -757,18 +769,6 @@
          "name":"Día Hincha de Racing",
          "animated_sticker_pack":false,
          "stickers":"16"
-      },
-      {
-         "identifier":"14febreroa1",
-         "name":"San Valentín",
-         "animated_sticker_pack":true,
-         "stickers":"13"
-      },
-      {
-         "identifier":"14febrero",
-         "name":"Día de los Enamorados",
-         "animated_sticker_pack":false,
-         "stickers":"27"
       },
       {
          "identifier":"12diciembre",
