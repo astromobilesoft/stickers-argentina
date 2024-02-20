@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"mosquitos1",
+         "name":"Mosquitos (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"mosquitosa1",
+         "name":"Mosquitos (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"14febreroa1",
          "name":"San Valentín",
          "animated_sticker_pack":true,
