@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clasicos_sanlorenzo",
+         "name":"Clasico San Lorenzo",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"clasicos_huracan",
+         "name":"Clasico Huracán",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"clasicos_independiente",
          "name":"Clasico Independiente",
          "animated_sticker_pack":false,
