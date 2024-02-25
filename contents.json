@@ -3,6 +3,36 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"superclasicoriver",
+         "name":"Superclasico (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"superclasicoboca",
+         "name":"Superclasico (2)",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
+         "identifier":"superclasico1",
+         "name":"Superclasico 1",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"superclasico2",
+         "name":"Superclasico 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"superclasico",
+         "name":"Superclasico",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"clasicos_sanlorenzo",
          "name":"Clasico San Lorenzo",
          "animated_sticker_pack":false,
@@ -1621,18 +1651,6 @@
          "name":"Día Virgen Lujan",
          "animated_sticker_pack":false,
          "stickers":"8"
-      },
-      {
-         "identifier":"superclasicoriver",
-         "name":"Superclasico (1)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"superclasicoboca",
-         "name":"Superclasico (2)",
-         "animated_sticker_pack":false,
-         "stickers":"7"
       },
       {
          "identifier":"diatrabajador",
@@ -3423,12 +3441,6 @@
          "stickers":"16"
       },
       {
-         "identifier":"superclasico",
-         "name":"Superclasico",
-         "animated_sticker_pack":false,
-         "stickers":"25"
-      },
-      {
          "identifier":"3octubre",
          "name":"Dia del Odontologo",
          "animated_sticker_pack":false,
@@ -4603,18 +4615,6 @@
          "name":"Pack Kun Aguero",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },
-      {
-         "identifier":"superclasico1",
-         "name":"Superclasico 1",
-         "animated_sticker_pack":true,
-         "stickers":"9"
-      },
-      {
-         "identifier":"superclasico2",
-         "name":"Superclasico 2",
-         "animated_sticker_pack":true,
-         "stickers":"12"
       },
       {
          "identifier":"amongus",
