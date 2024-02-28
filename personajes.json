@@ -3,10 +3,16 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-         "identifier":"memes20",
-         "name":"Memes Políticos",
-         "animated_sticker_pack":false,
-         "stickers":"20"
+      "identifier":"granhermano2023d",
+      "name":"Gran Hermano 2023 (5)",
+      "animated_sticker_pack":false,
+      "stickers":"28"
+    },
+    {
+      "identifier":"memes20",
+      "name":"Memes Políticos",
+      "animated_sticker_pack":false,
+      "stickers":"20"
     },
     {
       "identifier": "sergiomassa1",
