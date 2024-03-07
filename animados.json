@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"8marzoa1",
+         "name":"Día de la Mujer (2)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"8marzoa2",
+         "name":"Día de la Mujer (3)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
          "identifier":"mosquitosa1",
          "name":"Mosquitos (2)",
          "animated_sticker_pack":true,
@@ -343,12 +355,6 @@
          "name":"Conejo Animado",
          "animated_sticker_pack":true,
          "stickers":"12"
-      },
-      {
-         "identifier":"8marzoa1",
-         "name":"Día de la Mujer (2)",
-         "animated_sticker_pack":true,
-         "stickers":"14"
       },
       {
          "identifier":"vueltaalcole",
