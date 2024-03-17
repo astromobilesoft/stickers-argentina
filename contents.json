@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"17marzoa1",
+         "name":"San Patricio",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
          "identifier":"camiseta2024a",
          "name":"Camiseta Arg 2024 (1)",
          "animated_sticker_pack":false,
@@ -1885,12 +1891,6 @@
          "name":"La Fiesta del Campeón (2)",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },
-      {
-         "identifier":"17marzoa1",
-         "name":"San Patricio",
-         "animated_sticker_pack":true,
-         "stickers":"6"
       },
       {
          "identifier":"conejoanimado1",
