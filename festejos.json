@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"24marzo",
+         "name":"Día de la Memoria",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
          "identifier":"17marzoa1",
          "name":"San Patricio",
          "animated_sticker_pack":true,
@@ -763,12 +769,6 @@
          "name":"Día del Autismo",
          "animated_sticker_pack":false,
          "stickers":"10"
-      },
-      {
-         "identifier":"24marzo",
-         "name":"Día de la Memoria",
-         "animated_sticker_pack":false,
-         "stickers":"14"
       },
       {
          "identifier":"7marzo",
