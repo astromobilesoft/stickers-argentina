@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"20julioa2",
+         "name":"Día del Amigo (3)",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"20julioa1",
+         "name":"Día del Amigo (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"golseleccion2024",
          "name":"Gol Selección",
          "animated_sticker_pack":true,
@@ -277,18 +289,6 @@
          "name":"Flor de Saludos",
          "animated_sticker_pack":true,
          "stickers":"12"
-      },
-      {
-         "identifier":"20julioa2",
-         "name":"Día del Amigo (3)",
-         "animated_sticker_pack":true,
-         "stickers":"16"
-      },
-      {
-         "identifier":"20julioa1",
-         "name":"Día del Amigo (2)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
       },
       {
          "identifier":"9julioa1",
