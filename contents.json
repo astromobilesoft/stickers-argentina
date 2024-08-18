@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diadelaninez1",
+         "name":"Día de la Ninez (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelanineza1",
+         "name":"Día de la Ninez (2)",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"diadelnino",
+         "name":"Día de la Ninez (3)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
          "identifier":"17agosto",
          "name":"17 de Agosto",
          "animated_sticker_pack":false,
@@ -1597,42 +1615,6 @@
          "name":"Messi Inter Campeón",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },
-      {
-         "identifier":"diadelaninez1",
-         "name":"Día de la Ninez (1)",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"diadelanineza1",
-         "name":"Día de la Ninez (2)",
-         "animated_sticker_pack":true,
-         "stickers":"17"
-      },
-      {
-         "identifier":"diadelnino",
-         "name":"Día de la Ninez (3)",
-         "animated_sticker_pack":false,
-         "stickers":"14"
-      },
-      {
-         "identifier":"17agosto",
-         "name":"17 de Agosto",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"13agosto",
-         "name":"Día del Zurdo (1)",
-         "animated_sticker_pack":false,
-         "stickers":"8"
-      },
-      {
-         "identifier":"diadelzurdo",
-         "name":"Día del Zurdo (2)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
       },
       {
          "identifier":"cavaniboca1",
