@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"17septiembre",
+         "name":"Día del Profesor",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"13septiembre",
+         "name":"Día del Programador",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"11septiembre",
          "name":"Día del Maestro (1)",
          "animated_sticker_pack":false,
@@ -1669,18 +1681,6 @@
          "name":"Flor de Saludos",
          "animated_sticker_pack":true,
          "stickers":"12"
-      },
-      {
-         "identifier":"17septiembre",
-         "name":"Día del Profesor",
-         "animated_sticker_pack":false,
-         "stickers":"9"
-      },
-      {
-         "identifier":"13septiembre",
-         "name":"Día del Programador",
-         "animated_sticker_pack":false,
-         "stickers":"8"
       },
       {
          "identifier":"riverplate2023",
