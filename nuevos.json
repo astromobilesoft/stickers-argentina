@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"peregrinacionlujan",
+         "name":"Virgen Luján",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"amor2",
+         "name":"Amor 2",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },   
+      {
          "identifier":"hola1",
          "name":"Hola 1",
          "animated_sticker_pack":false,
@@ -1597,12 +1609,6 @@
          "name":"River Plate vs Boca Jrs (2)",
          "animated_sticker_pack":true,
          "stickers":"11"
-      },
-      {
-         "identifier":"peregrinacionlujan",
-         "name":"Virgen Luján",
-         "animated_sticker_pack":false,
-         "stickers":"8"
       },
       {
          "identifier":"frases11",

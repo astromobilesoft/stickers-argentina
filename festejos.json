@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"peregrinacionlujan",
+         "name":"Virgen Luján",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"amor2",
+         "name":"Amor 2",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"26septiembre",
          "name":"Día del Empleado de Comercio",
          "animated_sticker_pack":false,
@@ -757,12 +769,6 @@
          "name":"Día de la Diversidad",
          "animated_sticker_pack":false,
          "stickers":"12"
-      },
-      {
-         "identifier":"peregrinacionlujan",
-         "name":"Virgen Luján",
-         "animated_sticker_pack":false,
-         "stickers":"8"
       },
       {
          "identifier":"vacacionesdeinvierno",
