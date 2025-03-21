@@ -2,6 +2,18 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
    "ios_app_store_link":"",
    "sticker_packs":[
+     {
+         "identifier":"otono",
+         "name":"Feliz Otoño (1)",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"otonoa1",
+         "name":"Feliz Otoño (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
       {
          "identifier":"17marzoa1",
          "name":"San Patricio",
@@ -4957,12 +4969,6 @@
          "name":"Pachu Pena",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },
-      {
-         "identifier":"otono",
-         "name":"Feliz Otono",
-         "animated_sticker_pack":false,
-         "stickers":"9"
       },
       {
          "identifier":"tanopasman",
