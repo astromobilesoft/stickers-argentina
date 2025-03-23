@@ -2,7 +2,19 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
    "ios_app_store_link":"",
    "sticker_packs":[
-     {
+      {
+         "identifier":"seleccion2025a",
+         "name":"Selección Argentina 2025",
+         "animated_sticker_pack":true,
+         "stickers":"4"
+      },
+      {
+         "identifier":"ositos1",
+         "name":"Osito Gruñon",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"otono",
          "name":"Feliz Otoño (1)",
          "animated_sticker_pack":false,
@@ -459,10 +471,10 @@
          "stickers":"28"
       },
       {
-         "identifier": "halloween2",
-         "name": "Halloween 2",
-         "animated_sticker_pack": true,
-         "stickers": "9"
+         "identifier":"halloween2",
+         "name":"Halloween 2",
+         "animated_sticker_pack":true,
+         "stickers":"9"
       },
       {
          "identifier":"halloween3",
@@ -535,7 +547,7 @@
          "name":"Hola 1",
          "animated_sticker_pack":false,
          "stickers":"8"
-      },  
+      },
       {
          "identifier":"felizviernes1",
          "name":"Feliz Viernes",
@@ -1773,10 +1785,10 @@
          "stickers":"28"
       },
       {
-         "identifier": "halloween2",
-         "name": "Halloween 2",
-         "animated_sticker_pack": true,
-         "stickers": "9"
+         "identifier":"halloween2",
+         "name":"Halloween 2",
+         "animated_sticker_pack":true,
+         "stickers":"9"
       },
       {
          "identifier":"halloween3",
