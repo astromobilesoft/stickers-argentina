@@ -3,12 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2025rivervsboca1",
+         "name":"River Plate vs Boca Jrs",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"superclasico2025a",
          "name":"Gol Superclásico",
          "animated_sticker_pack":true,
          "stickers":"15"
       },
-            {
+      {
          "identifier":"superclasicoriver",
          "name":"Superclásico River",
          "animated_sticker_pack":false,
