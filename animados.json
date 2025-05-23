@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"25mayoa3",
+         "name":"25 de Mayo (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"25mayoa2",
+         "name":"25 de Mayo (3)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"25mayoa1",
+         "name":"25 de Mayo (2)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
+         "identifier":"18mayoa1",
+         "name":"Día Escarapela (2)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
          "identifier":"seleccion2025a",
          "name":"Selección Argentina 2025",
          "animated_sticker_pack":true,
@@ -91,30 +115,6 @@
          "name":"Dia del Padre (8)",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },
-      {
-         "identifier":"25mayoa3",
-         "name":"25 de Mayo (4)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"25mayoa2",
-         "name":"25 de Mayo (3)",
-         "animated_sticker_pack":true,
-         "stickers":"7"
-      },
-      {
-         "identifier":"25mayoa1",
-         "name":"25 de Mayo (2)",
-         "animated_sticker_pack":true,
-         "stickers":"6"
-      },
-      {
-         "identifier":"18mayoa1",
-         "name":"Día Escarapela (2)",
-         "animated_sticker_pack":true,
-         "stickers":"6"
       },
       {
          "identifier":"17marzoa1",
