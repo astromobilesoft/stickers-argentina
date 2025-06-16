@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"17junio1",
+         "name":"Día de la Libertad Latinoamericana",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
          "identifier":"clubworldcup2025riverplate1",
          "name":"River Plate FCWC 25 (1)",
          "animated_sticker_pack":false,
@@ -1387,12 +1393,6 @@
          "name":"Guillermo Moreno",
          "animated_sticker_pack":false,
          "stickers":"21"
-      },
-      {
-         "identifier":"17junio1",
-         "name":"Día de la Libertad Latinoamericana",
-         "animated_sticker_pack":false,
-         "stickers":"12"
       },
       {
          "identifier":"18mayo1",
