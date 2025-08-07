@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sancayetano",
+         "name":"San Cayetano",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
+         "identifier":"4agosto",
+         "name":"Día del Panadero",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
          "identifier":"diadelosabuelos1",
          "name":"Día de los Abuelos",
          "animated_sticker_pack":false,
@@ -955,18 +967,6 @@
          "name":"Día del Zurdo",
          "animated_sticker_pack":false,
          "stickers":"8"
-      },
-      {
-         "identifier":"sancayetano",
-         "name":"San Cayetano",
-         "animated_sticker_pack":false,
-         "stickers":"7"
-      },
-      {
-         "identifier":"4agosto",
-         "name":"Día del Panadero",
-         "animated_sticker_pack":false,
-         "stickers":"7"
       },
       {
          "identifier":"2agostoa1",
