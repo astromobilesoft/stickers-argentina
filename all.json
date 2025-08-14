@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diadelaninez1",
+         "name":"Día de la Niñez (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelanineza1",
+         "name":"Día de la Niñez (2)",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"diadelnino",
+         "name":"Día de la Niñez (3)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"17agosto",
+         "name":"17 de Agosto",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"2agostoa1",
          "name":"Día de la Cerveza (1)",
          "animated_sticker_pack":true,
@@ -1023,10 +1047,10 @@
          "stickers":"28"
       },
       {
-         "identifier": "halloween2",
-         "name": "Halloween 2",
-         "animated_sticker_pack": true,
-         "stickers": "9"
+         "identifier":"halloween2",
+         "name":"Halloween 2",
+         "animated_sticker_pack":true,
+         "stickers":"9"
       },
       {
          "identifier":"halloween3",
@@ -1105,7 +1129,7 @@
          "name":"Hola 1",
          "animated_sticker_pack":false,
          "stickers":"8"
-      },  
+      },
       {
          "identifier":"felizviernes1",
          "name":"Feliz Viernes",
