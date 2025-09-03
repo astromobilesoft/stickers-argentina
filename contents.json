@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"3septiembre",
+         "name":"Día de Ferretero",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"diasa1",
+         "name":"Días Animados 1",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"frasesanimadas13",
+         "name":"Frases Animadas 13",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"heartlove1",
+         "name":"Heart Love 1",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },            
+      {
          "identifier":"2agostoa1",
          "name":"Día de la Cerveza (1)",
          "animated_sticker_pack":true,
@@ -24,7 +48,7 @@
          "identifier":"locomotorarip1",
          "name":"Locomotora QEPD",
          "animated_sticker_pack":false,
-         "stickers":8
+         "stickers":"8"
       },
       {
          "identifier":"locomotoraolivera1",
@@ -1279,12 +1303,6 @@
          "name":"Día de la Secretaria",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },
-      {
-         "identifier":"3septiembre",
-         "name":"Día de Ferretero",
-         "animated_sticker_pack":false,
-         "stickers":"9"
       },
       {
          "identifier":"francocolapinto1",
