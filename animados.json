@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"21septiembrea1",
+         "name":"21 de Septiembre (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"diasa1",
          "name":"Días Animados 1",
          "animated_sticker_pack":true,
@@ -313,12 +319,6 @@
          "name":"Taylor Swift (4)",
          "animated_sticker_pack":true,
          "stickers":"19"
-      },
-      {
-         "identifier":"21septiembrea1",
-         "name":"21 de Septiembre (2)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
       },
       {
          "identifier":"flordesaludos",
