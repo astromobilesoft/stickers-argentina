@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"12octubre",
+         "name":"Día de la Diversidad",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"minions1",
+         "name":"Minions",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },        
+      {
          "identifier":"trumppesosa1",
          "name":"Trump Pesos",
          "animated_sticker_pack":true,
@@ -2389,12 +2401,6 @@
          "name":"Virginia Lago",
          "animated_sticker_pack":false,
          "stickers":"14"
-      },
-      {
-         "identifier":"12octubre",
-         "name":"Día de la Diversidad",
-         "animated_sticker_pack":false,
-         "stickers":"12"
       },
       {
          "identifier":"osothomas1",
