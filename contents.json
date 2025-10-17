@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"17octubre",
+         "name":"Día de Lealtad Peronista",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"seleccionsub20finalista2025",
          "name":"Sub-20 Finalista",
          "animated_sticker_pack":false,
@@ -3427,12 +3433,6 @@
          "name":"Boca Campeón LPF 2022",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },
-      {
-         "identifier":"17octubre",
-         "name":"Día de Lealtad Peronista",
-         "animated_sticker_pack":false,
-         "stickers":"15"
       },
       {
          "identifier":"gallardoadios1",
