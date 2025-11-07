@@ -3,10 +3,34 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"7noviembre",
+         "name":"7 de Noviembre",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"6noviembre",
+         "name":"Día del Bancario",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"seleccionargentinakit2026a",
          "name":"Camiseta Arg 2026 (1)",
          "animated_sticker_pack":false,
          "stickers":"12"
+      },         
+      {
+         "identifier":"lgbt1",
+         "name":"LGBT 1",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"lgbt2",
+         "name":"LGBT 2",
+         "animated_sticker_pack":false,
+         "stickers":"13"
       },        
       {
          "identifier":"halloween",
@@ -2389,30 +2413,6 @@
          "name":"Taylor Swift (4)",
          "animated_sticker_pack":true,
          "stickers":"19"
-      },
-      {
-         "identifier":"7noviembre",
-         "name":"7 de Noviembre",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"lgbt1",
-         "name":"LGBT 1",
-         "animated_sticker_pack":false,
-         "stickers":"26"
-      },
-      {
-         "identifier":"lgbt2",
-         "name":"LGBT 2",
-         "animated_sticker_pack":false,
-         "stickers":"13"
-      },
-      {
-         "identifier":"6noviembre",
-         "name":"Día del Bancario",
-         "animated_sticker_pack":false,
-         "stickers":"8"
       },
       {
          "identifier":"halloween",
