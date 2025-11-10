@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"10noviembre",
+         "name":"Día de la Tradición (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"10noviembrea1",
+         "name":"Día de la Tradición (2)",
+         "animated_sticker_pack":true,
+         "stickers":"19"
+      },
+      {
          "identifier":"2025bocavsriver1",
          "name":"Boca Jrs vs River Plate",
          "animated_sticker_pack":false,
@@ -1555,18 +1567,6 @@
          "name":"Trump 2024",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },
-      {
-         "identifier":"10noviembre",
-         "name":"10 de Noviembre (1)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"10noviembrea1",
-         "name":"10 de Noviembre (2)",
-         "animated_sticker_pack":true,
-         "stickers":"19"
       },
       {
          "identifier":"amor2",
