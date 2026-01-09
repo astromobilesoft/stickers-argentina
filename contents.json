@@ -2,6 +2,12 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {
+         "identifier":"gauchito",
+         "name":"Gauchito Gil",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
      {
         "identifier":"reyesmagosa2",
         "name":"Reyes Magos (2)",
@@ -4255,12 +4261,6 @@
          "name":"Marley",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },
-      {
-         "identifier":"gauchito",
-         "name":"Gauchito Gil",
-         "animated_sticker_pack":false,
-         "stickers":"8"
       },
       {
          "identifier":"packfe",
