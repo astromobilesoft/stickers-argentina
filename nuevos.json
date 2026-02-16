@@ -2,6 +2,24 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
    "ios_app_store_link":"",
    "sticker_packs":[
+     {
+        "identifier":"findelargo1",
+        "name":"Finde Largo",
+        "animated_sticker_pack":false,
+        "stickers":"10"
+     },
+     {
+        "identifier":"carnavala1",
+        "name":"Carnaval",
+        "animated_sticker_pack":true,
+        "stickers":"17"
+     },
+     {
+        "identifier":"anonuevochino",
+        "name":"Año Nuevo Chino",
+        "animated_sticker_pack":false,
+        "stickers":"23"
+     },
        {
          "identifier":"14febreroa4",
          "name":"Anti San Valentin",
@@ -1569,18 +1587,6 @@
          "stickers":"14"
       },
       {
-         "identifier":"findelargo1",
-         "name":"Finde Largo",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"carnavala1",
-         "name":"Carnaval",
-         "animated_sticker_pack":true,
-         "stickers":"17"
-      },
-      {
          "identifier":"2025racingrecopa",
          "name":"Racing Campeón Recopa 2025",
          "animated_sticker_pack":false,
@@ -1615,12 +1621,6 @@
          "name":"Calor (4)",
          "animated_sticker_pack":true,
          "stickers":"12"
-      },
-      {
-         "identifier":"anonuevochino",
-         "name":"Año Nuevo Chino",
-         "animated_sticker_pack":false,
-         "stickers":"23"
       },
       {
          "identifier":"anonuevo25a1",

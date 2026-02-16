@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
      {
+        "identifier":"findelargo1",
+        "name":"Finde Largo",
+        "animated_sticker_pack":false,
+        "stickers":"10"
+     },
+     {
+        "identifier":"carnavala1",
+        "name":"Carnaval",
+        "animated_sticker_pack":true,
+        "stickers":"17"
+     },
+     {
+        "identifier":"anonuevochino",
+        "name":"Año Nuevo Chino",
+        "animated_sticker_pack":false,
+        "stickers":"23"
+     },
+     {
         "identifier":"14febrero",
         "name":"Día de los Enamorados",
         "animated_sticker_pack":false,
@@ -25,7 +43,7 @@
         "name":"San Valentín (3)",
         "animated_sticker_pack":true,
         "stickers":"15"
-     },     
+     },
       {
          "identifier":"gauchito",
          "name":"Gauchito Gil",
@@ -1561,12 +1579,6 @@
          "name":"Finde Largo",
          "animated_sticker_pack":false,
          "stickers":"10"
-      },
-      {
-         "identifier":"carnavala1",
-         "name":"Carnaval",
-         "animated_sticker_pack":true,
-         "stickers":"17"
       },
       {
          "identifier":"2025racingrecopa",

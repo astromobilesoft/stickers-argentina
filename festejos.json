@@ -2,6 +2,12 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
    "ios_app_store_link":"",
    "sticker_packs":[
+     {
+        "identifier":"carnavala1",
+        "name":"Carnaval",
+        "animated_sticker_pack":true,
+        "stickers":"17"
+     },     
       {
          "identifier":"14febrero",
          "name":"Día de los Enamorados",
@@ -1135,12 +1141,6 @@
          "name":"Día de la Mujer (3)",
          "animated_sticker_pack":true,
          "stickers":"14"
-      },
-      {
-         "identifier":"carnavala1",
-         "name":"Carnaval",
-         "animated_sticker_pack":true,
-         "stickers":"17"
       },
       {
          "identifier":"anonuevochino",
