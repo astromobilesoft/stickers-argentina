@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"juevessanto2",
+         "name":"Jueves Santo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"juevessanto",
+         "name":"Jueves Santo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+     },
+      {
          "identifier":"seleccionamistosos2026a",
          "name":"Argentina vs Mauritania 2026",
          "animated_sticker_pack":false,
@@ -1549,12 +1561,6 @@
          "name":"Felices Pascuas (1)",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },
-      {
-         "identifier":"juevessanto",
-         "name":"Jueves Santo",
-         "animated_sticker_pack":false,
-         "stickers":"10"
       },
       {
          "identifier":"domingoderamos1",
