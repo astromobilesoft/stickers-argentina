@@ -3,12 +3,6 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"2abril2",
-         "name":"Día del Autismo",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
          "identifier":"juevessanto2",
          "name":"Jueves Santo (2)",
          "animated_sticker_pack":false,
@@ -1391,6 +1385,12 @@
       {
          "identifier":"1agosto1",
          "name":"Día de la Pachamama",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"2abril2",
+         "name":"Día del Autismo",
          "animated_sticker_pack":false,
          "stickers":"10"
       },
