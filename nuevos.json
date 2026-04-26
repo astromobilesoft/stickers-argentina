@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"francocolapinto3",
+         "name":"Franco Colapinto 3",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"francocolapinto2",
+         "name":"Vuelve Colapinto 2",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"francocolapinto1",
+         "name":"Franco Colapinto 1",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"empanada1",
          "name":"Dia de la Empanada",
          "animated_sticker_pack":false,
@@ -1509,12 +1527,6 @@
          "stickers":"13"
       },
       {
-         "identifier":"francocolapinto2",
-         "name":"Vuelve Colapinto",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
          "identifier":"18mayoa1",
          "name":"Día Escarapela (2)",
          "animated_sticker_pack":true,
@@ -1765,12 +1777,6 @@
          "name":"Saludos 4",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },
-      {
-         "identifier":"francocolapinto1",
-         "name":"Franco Colapinto",
-         "animated_sticker_pack":false,
-         "stickers":"16"
       },
       {
          "identifier":"rocknacional1",
