@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"29abril3",
+         "name":"Día del Animal (3)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"29abril2",
+         "name":"Día del Animal (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"29abril1",
+         "name":"Día del Animal (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"francocolapinto3",
          "name":"Franco Colapinto 3",
          "animated_sticker_pack":false,
@@ -3097,18 +3115,6 @@
          "name":"Mundial Sub-20 (2)",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },
-      {
-         "identifier":"29abril2",
-         "name":"Día del Animal (2)",
-         "animated_sticker_pack":false,
-         "stickers":"25"
-      },
-      {
-         "identifier":"29abril1",
-         "name":"Día del Animal (1)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
       },
       {
          "identifier":"dolar500",
