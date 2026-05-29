@@ -3,6 +3,36 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"javiermilei6",
+         "name":"Javier Milei (6)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"javiermilei3",
+         "name":"Javier Milei (3)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"javiermilei4",
+         "name":"Javier Milei (4)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"javiermilei2",
+         "name":"Javier Milei (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"javiermilei1",
+         "name":"Javier Milei",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
          "identifier":"25mayoa4",
          "name":"25 de Mayo (6)",
          "animated_sticker_pack":false,
@@ -2332,30 +2362,6 @@
          "stickers":"18"
       },
       {
-         "identifier":"javiermilei3",
-         "name":"Javier Milei (3)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"javiermilei4",
-         "name":"Javier Milei (4)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"javiermilei3",
-         "name":"Javier Milei (3)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"javiermilei4",
-         "name":"Javier Milei (4)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
          "identifier":"elecciones2023b",
          "name":"Elecciones 2023 (2)",
          "animated_sticker_pack":false,
@@ -4510,12 +4516,6 @@
          "stickers":"12"
       },
       {
-         "identifier":"javiermilei2",
-         "name":"Javier Milei (2)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
          "identifier":"izquierdaa1",
          "name":"Frente Izquierda",
          "animated_sticker_pack":true,
@@ -4658,12 +4658,6 @@
          "name":"Vuelta del Hincha",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },
-      {
-         "identifier":"javiermilei1",
-         "name":"Javier Milei",
-         "animated_sticker_pack":true,
-         "stickers":"13"
       },
       {
          "identifier":"eljuegodelcalamar1",
