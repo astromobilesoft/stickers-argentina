@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2junio1",
+         "name":"Día del Bombero(2)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"2junio",
+         "name":"Día del Bombero",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
          "identifier":"javiermilei6",
          "name":"Javier Milei (6)",
          "animated_sticker_pack":false,
@@ -1615,12 +1627,6 @@
          "name":"Empanadas Darin",
          "animated_sticker_pack":false,
          "stickers":"6"
-      },
-      {
-         "identifier":"2junio",
-         "name":"Día del Bombero",
-         "animated_sticker_pack":false,
-         "stickers":"7"
       },
       {
          "identifier":"31mayo1",
