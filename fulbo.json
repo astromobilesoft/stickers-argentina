@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026argentinaf2b",
+         "name":"Argentina vs Austria (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"worldcup2026argentinaf2a",
          "name":"Argentina vs Austria (1)",
          "animated_sticker_pack":false,
