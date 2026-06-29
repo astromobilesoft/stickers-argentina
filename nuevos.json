@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"mexico863",
+         "name":"Mexico 86 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"mexico86",
+         "name":"Mexico 86 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"mexico862",
+         "name":"Mexico 86 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"worldcup2026argentinaf3c",
          "name":"Vs Jordania (2)",
          "animated_sticker_pack":false,
@@ -4615,18 +4633,6 @@
          "name":"Reacciones Maradona 1",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },
-      {
-         "identifier":"mexico86",
-         "name":"Mexico 86 (1)",
-         "animated_sticker_pack":false,
-         "stickers":"29"
-      },
-      {
-         "identifier":"mexico862",
-         "name":"Mexico 86 (2)",
-         "animated_sticker_pack":false,
-         "stickers":"26"
       },
       {
          "identifier":"leyetiquetado",
