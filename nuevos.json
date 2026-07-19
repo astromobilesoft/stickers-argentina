@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seleccionargentina1",
+         "name":"Seleccion Argentina (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"seleccionargentina2",
+         "name":"Seleccion Argentina (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"worldcup2026argentinaa6",
          "name":"Argentina Mundial 2026 (3)",
          "animated_sticker_pack":false,
@@ -4027,18 +4039,6 @@
          "name":"Angel Di Maria (2)",
          "animated_sticker_pack":false,
          "stickers":"21"
-      },
-      {
-         "identifier":"seleccionargentina1",
-         "name":"Seleccion Argentina (1)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"seleccionargentina2",
-         "name":"Seleccion Argentina (2)",
-         "animated_sticker_pack":false,
-         "stickers":"16"
       },
       {
          "identifier":"worldcup2022argentina",
