@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"26septiembre2",
+         "name":"Día del Empleado de Comercio(2)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"26septiembre",
+         "name":"Día del Empleado de Comercio",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
          "identifier":"21septiembre3",
          "name":"21 de Septiembre (3)",
          "animated_sticker_pack":false,
@@ -961,12 +973,6 @@
          "name":"Día del Café",
          "animated_sticker_pack":true,
          "stickers":"15"
-      },
-      {
-         "identifier":"26septiembre",
-         "name":"Día del Empleado de Comercio",
-         "animated_sticker_pack":false,
-         "stickers":"9"
       },
       {
          "identifier":"20septiembre",
