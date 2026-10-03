@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"peregrinacionlujan",
+         "name":"Peregrinación Luján (1)",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"peregrinacionlujan2",
+         "name":"Peregrinación Luján (2)",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
          "identifier":"seleccionamistosos2026c",
          "name":"Argentina vs Bolivia",
          "animated_sticker_pack":false,
@@ -1776,18 +1788,6 @@
          "identifier":"trumppesosa1",
          "name":"Trump Pesos",
          "animated_sticker_pack":true,
-         "stickers":"9"
-      },
-      {
-         "identifier":"peregrinacionlujan",
-         "name":"Peregrinación Luján (1)",
-         "animated_sticker_pack":false,
-         "stickers":"8"
-      },
-      {
-         "identifier":"peregrinacionlujan2",
-         "name":"Peregrinación Luján (2)",
-         "animated_sticker_pack":false,
          "stickers":"9"
       },
       {
