@@ -4,27 +4,31 @@
    "sticker_packs":[
       {
          "identifier":"17octubre",
-         "name":"Dia de la Lealtad Peronista",
+         "name":"Día de la Lealtad Peronista",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "17/10"
       },
       {
          "identifier":"17octubre2",
-         "name":"Dia de la Lealtad Peronista(2)",
+         "name":"Día de la Lealtad Peronista(2)",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "17/10"         
       },
       {
          "identifier":"12octubre",
          "name":"Día de la Diversidad",
          "animated_sticker_pack":false,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "12/10"         
       },
       {
          "identifier":"12octubre2",
          "name":"Día de la Diversidad(2)",
          "animated_sticker_pack":false,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "12/10"         
       },
       {
          "identifier":"seleccionamistosos2026e",
@@ -114,7 +118,8 @@
          "identifier":"diamundialanimal1",
          "name":"Día Mundial del animal",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "04/10"
       },
       {
          "identifier":"francocolapinto5",
@@ -162,59 +167,64 @@
          "identifier":"diadelhinchaderiver1",
          "name":"Día del Hincha de River (1)",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "28/09"         
       },
       {
          "identifier":"diadelhinchaderiver2",
          "name":"Día del Hincha de River (2)",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "28/09"         
       },        
       {
          "identifier":"26septiembre2",
          "name":"Día del Empleado de Comercio (2)",
          "animated_sticker_pack":false,
-         "stickers":"14"
+         "stickers":"14",
+         "date": "26/09"         
       },
       {
          "identifier":"26septiembre",
          "name":"Día del Empleado de Comercio (1)",
          "animated_sticker_pack":false,
-         "stickers":"9"
+         "stickers":"9",
+         "date": "28/09"         
       },
       {
          "identifier":"21septiembre",
          "name":"21 de Septiembre (1)",
          "animated_sticker_pack":false,
-         "stickers":"19"
+         "stickers":"19",
+         "date": "21/09"         
       },
       {
          "identifier":"21septiembrea1",
          "name":"21 de Septiembre (2)",
          "animated_sticker_pack":true,
          "stickers":"10",
-         "date": "15/10"         
+         "date": "21/09"         
       },
       {
          "identifier":"21septiembre3",
          "name":"21 de Septiembre (3)",
          "animated_sticker_pack":false,
          "stickers":"8",
-         "date": "16/10"
+         "date": "21/09"
       },
       {
          "identifier":"21septiembre2",
          "name":"Día de la Sanidad",
          "animated_sticker_pack":false,
          "stickers":"9",
-         "date": "17/10"         
+         "date": "21/09"         
       },
       {
          "identifier":"diadelchocolate1",
          "name":"Día del Chocolate",
          "animated_sticker_pack":false,
          "stickers":"14",
-         "date": "21/09"                  
+         "date": "13/09"                  
       },
       {
          "identifier":"francocolapinto4",
@@ -256,31 +266,36 @@
          "identifier":"11septiembre",
          "name":"Día del Maestro (1)",
          "animated_sticker_pack":false,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "11/09"                  
       },
       {
          "identifier":"11septiembrea1",
          "name":"Día del Maestro (2)",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "11/09"         
       },
       {
          "identifier":"11septiembrea2",
          "name":"Día del Maestro (3)",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "11/09"
       },
       {
          "identifier":"4septiembre",
          "name":"Día de la Secretaria",
          "animated_sticker_pack":false,
-         "stickers":"20"
+         "stickers":"20",
+         "date": "04/09"         
       },
       {
          "identifier":"3septiembre",
-         "name":"Día de Ferretero",
+         "name":"Día del Ferretero",
          "animated_sticker_pack":false,
-         "stickers":"9"
+         "stickers":"9",
+         "date": "03/09"         
       },      
       {
          "identifier":"2026leonascampeonas2",
@@ -298,7 +313,8 @@
          "identifier":"17agosto",
          "name":"17 de Agosto",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "17/08"         
       },
       {
          "identifier":"diadelaninez1",
@@ -322,25 +338,29 @@
          "identifier":"sancayetano2",
          "name":"San Cayetano (2)",
          "animated_sticker_pack":false,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "07/08"          
       },
       {
          "identifier":"sancayetano",
          "name":"San Cayetano (1)",
          "animated_sticker_pack":false,
-         "stickers":"7"
+         "stickers":"7",
+         "date": "07/08"                   
       },
       {
          "identifier":"diadelosabuelos2",
          "name":"Día de los abuelos (2)",
          "animated_sticker_pack":false,
-         "stickers":"21"
+         "stickers":"21",
+         "date": "26/07"                   
       },
       {
          "identifier":"diadelosabuelos1",
          "name":"Día de los Abuelos",
          "animated_sticker_pack":false,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "26/07"
       },
       {
          "identifier":"worldcup2026argentinaa14",
@@ -358,37 +378,43 @@
          "identifier":"20julio4",
          "name":"Día del Amigo (6)",
          "animated_sticker_pack":false,
-         "stickers":"19"
+         "stickers":"19",
+         "date": "20/07"
       },
       {
          "identifier":"20julioa2",
          "name":"Día del Amigo (5)",
          "animated_sticker_pack":true,
-         "stickers":"16"
+         "stickers":"16",
+         "date": "20/07"         
       },
       {
          "identifier":"20julioa1",
          "name":"Día del Amigo (4)",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "20/07"         
       },
       {
          "identifier":"20julio3",
          "name":"Día del Amigo (3)",
          "animated_sticker_pack":false,
-         "stickers":"24"
+         "stickers":"24",
+         "date": "20/07"         
       },
       {
          "identifier":"20julio2",
          "name":"Día del Amigo (2)",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "20/07"         
       },
       {
          "identifier":"20julio",
          "name":"Día del Amigo (1)",
          "animated_sticker_pack":false,
-         "stickers":"17"
+         "stickers":"17",
+         "date": "20/07"         
       },
       {
          "identifier":"worldcup2026argentinaa8",
@@ -520,19 +546,22 @@
          "identifier":"9julioa2",
          "name":"Día de la Independencia (3)",
          "animated_sticker_pack":false,
-         "stickers":"29"
+         "stickers":"29",
+         "date": "09/07"                            
       },
       {
          "identifier":"9julioa1",
          "name":"Día de la Independencia (2)",
          "animated_sticker_pack":true,
-         "stickers":"11"
+         "stickers":"11",
+         "date": "09/07"         
       },
       {
          "identifier":"9julio",
          "name":"Día de la Independencia (1)",
          "animated_sticker_pack":false,
-         "stickers":"18"
+         "stickers":"18",
+         "date": "09/07"                  
       },
       {
          "identifier":"worldcup2026argentinao1b",
@@ -586,25 +615,29 @@
          "identifier":"memesjulio1",
          "name":"Memes Julio (1)",
          "animated_sticker_pack":false,
-         "stickers":"9"
+         "stickers":"9",
+         "date": "01/07"                           
       },
       {
          "identifier":"memesjulio2",
          "name":"Memes Julio (2)",
          "animated_sticker_pack":false,
-         "stickers":"14"
+         "stickers":"14",
+         "date": "01/07"                           
       },
       {
          "identifier":"memesjulio3",
          "name":"Memes Julio (3)",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "01/07"                           
       },
       {
          "identifier":"memesjulio4",
          "name":"Memes Julio (4)",
          "animated_sticker_pack":false,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "01/07"                  
       },
       {
          "identifier":"mexico863",
@@ -766,25 +799,29 @@
          "identifier":"20junioa1",
          "name":"Día de la Bandera (1)",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "20/06"                           
       },
       {
          "identifier":"20junio",
          "name":"Día de la Bandera (2)",
          "animated_sticker_pack":false,
-         "stickers":"20"
+         "stickers":"20",
+         "date": "20/06"                                    
       },
       {
          "identifier":"20junioa2",
          "name":"Dia de la Bandera (3)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "20/06"                                    
       },
       {
          "identifier":"20junioa3",
          "name":"Dia de la Bandera (4)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "20/06"                                    
       },
       {
          "identifier":"worldcup2026argentinaf1c",
@@ -892,13 +929,15 @@
          "identifier":"2junio1",
          "name":"Día del Bombero(2)",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "02/06"                                    
       },
       {
          "identifier":"2junio",
          "name":"Día del Bombero",
          "animated_sticker_pack":false,
-         "stickers":"7"
+         "stickers":"7",
+         "date": "02/06"                                             
       },
       {
          "identifier":"javiermilei6",
@@ -934,37 +973,43 @@
          "identifier":"25mayoa4",
          "name":"25 de Mayo (6)",
          "animated_sticker_pack":false,
-         "stickers":"28"
+         "stickers":"28",
+         "date": "25/05"                                             
       },
       {
          "identifier":"25mayo2",
          "name":"25 de Mayo (5)",
          "animated_sticker_pack":false,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "25/05"         
       },
       {
          "identifier":"25mayoa3",
          "name":"25 de Mayo (4)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "25/05"         
       },
       {
          "identifier":"25mayoa2",
          "name":"25 de Mayo (3)",
          "animated_sticker_pack":true,
-         "stickers":"7"
+         "stickers":"7",
+         "date": "25/05"         
       },
       {
          "identifier":"25mayoa1",
          "name":"25 de Mayo (2)",
          "animated_sticker_pack":true,
-         "stickers":"6"
+         "stickers":"6",
+         "date": "25/05"         
       },
       {
          "identifier":"25mayo",
          "name":"25 de Mayo (1)",
          "animated_sticker_pack":false,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "25/05"         
       },
       {
          "identifier":"worldcup2026figus1",
@@ -976,91 +1021,106 @@
          "identifier":"18mayo1",
          "name":"Día Escarapela (1)",
          "animated_sticker_pack":false,
-         "stickers":"6"
+         "stickers":"6",
+         "date": "18/05"         
       },
       {
          "identifier":"18mayoa1",
          "name":"Día Escarapela (2)",
          "animated_sticker_pack":true,
-         "stickers":"6"
+         "stickers":"6",
+         "date": "18/05"                  
       },
       {
          "identifier":"17mayo",
          "name":"Día de la Armada",
          "animated_sticker_pack":false,
-         "stickers":"25"
+         "stickers":"25",
+         "date": "17/05"                  
       },
       {
          "identifier":"11mayo",
          "name":"Himno Nacional",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "11/05"                           
       },  
       {
          "identifier":"8mayo1",
          "name":"Día Virgen Lujan",
          "animated_sticker_pack":false,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "08/05"                                    
       },
       {
          "identifier":"diatrabajador3",
          "name":"Día del Trabajador 3",
          "animated_sticker_pack":false,
-         "stickers":"25"
+         "stickers":"25",
+         "date": "01/05"         
       },
       {
          "identifier":"1mayo2",
          "name":"Día del Trabajador (5)",
          "animated_sticker_pack":false,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "01/05"                  
       },
       {
          "identifier":"diatrabajador",
          "name":"Día Trabajador (1)",
          "animated_sticker_pack":false,
-         "stickers":"22"
+         "stickers":"22",
+         "date": "01/05"                  
       },
       {
          "identifier":"diatrabajador2",
          "name":"Día Trabajador (2)",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "01/05"                  
       },
       {
          "identifier":"1mayo",
          "name":"Día del Trabajador (3)",
          "animated_sticker_pack":false,
-         "stickers":"25"
+         "stickers":"25",
+         "date": "01/05"                  
       },
       {
          "identifier":"1mayoa",
          "name":"Día del Trabajador (4)",
          "animated_sticker_pack":true,
-         "stickers":"14"
+         "stickers":"14",
+         "date": "01/05"                  
       },
       {
          "identifier":"29abril3",
          "name":"Día del Animal (3)",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "29/04"                  
       },
       {
          "identifier":"29abril2",
          "name":"Día del Animal (2)",
          "animated_sticker_pack":false,
-         "stickers":"25"
+         "stickers":"25",
+         "date": "29/04"                  
       },
       {
          "identifier":"29abril1",
          "name":"Día del Animal (1)",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "29/04"
       },
       {
          "identifier":"empanada1",
          "name":"Dia de la Empanada",
          "animated_sticker_pack":false,
-         "stickers":"23"
+         "stickers":"23",
+         "date": "08/04"         
       },
       {
          "identifier":"pascuas7",
@@ -1102,7 +1162,8 @@
          "identifier":"2abril2",
          "name":"Día del Autismo",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "02/04"         
       },
       {
          "identifier":"juevessanto2",
@@ -1132,37 +1193,43 @@
          "identifier":"24marzo",
          "name":"Día de la Memoria (1)",
          "animated_sticker_pack":false,
-         "stickers":"14"
+         "stickers":"14",
+         "date": "24/03"                  
       },
       {
          "identifier":"24marzo2",
          "name":"Día de la Memoria (2)",
          "animated_sticker_pack":false,
-         "stickers":"16"
+         "stickers":"16",
+         "date": "24/03"                           
       },
       {
          "identifier":"17marzoa1",
          "name":"San Patricio",
          "animated_sticker_pack":true,
-         "stickers":"6"
+         "stickers":"6",
+         "date": "17/03"                           
       },
       {
          "identifier":"8marzo",
          "name":"Día de la Mujer (1)",
          "animated_sticker_pack":false,
-         "stickers":"20"
+         "stickers":"20",
+         "date": "08/03"                           
       },
       {
          "identifier":"8marzoa1",
          "name":"Día de la Mujer (2)",
          "animated_sticker_pack":true,
-         "stickers":"14"
+         "stickers":"14",
+         "date": "08/03"                                    
       },
       {
          "identifier":"8marzoa2",
          "name":"Día de la Mujer (3)",
          "animated_sticker_pack":true,
-         "stickers":"14"
+         "stickers":"14",
+         "date": "08/03"                                    
       },
       {
          "identifier":"findelargo1",
@@ -1186,43 +1253,50 @@
          "identifier":"14febrero",
          "name":"Día de los Enamorados",
          "animated_sticker_pack":false,
-         "stickers":"27"
+         "stickers":"27",
+         "date": "14/02"                                    
       },
       {
          "identifier":"14febreroa1",
          "name":"San Valentín (1)",
          "animated_sticker_pack":true,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "14/02"                                             
       },
       {
          "identifier":"14febreroa2",
          "name":"San Valentín (2)",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "14/02"                                             
       },
       {
          "identifier":"14febreroa3",
          "name":"San Valentín (3)",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "14/02"                                             
       },
       {
          "identifier":"gauchito",
          "name":"Gauchito Gil",
          "animated_sticker_pack":false,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "08/01"                                             
       },
       {
          "identifier":"reyesmagosa2",
          "name":"Reyes Magos (2)",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "06/01"                                                      
       },
       {
          "identifier":"reyesmagos1a",
          "name":"Reyes Magos (1)",
          "animated_sticker_pack":false,
-         "stickers":"7"
+         "stickers":"7",
+         "date": "06/01"                                                               
       },
       {
          "identifier":"anonuevo26a1",
@@ -1246,295 +1320,345 @@
          "identifier":"anonuevo7",
          "name":"Feliz Año Nuevo (7)",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "31/12"                                                               
       },
       {
          "identifier":"anonuevoargentina",
          "name":"Feliz Año Argentina",
          "animated_sticker_pack":true,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "31/12"         
       },
       {
          "identifier":"anonuevo1",
          "name":"Feliz Año Nuevo (1)",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "31/12"         
       },
       {
          "identifier":"anonuevo2",
          "name":"Feliz Año Nuevo (2)",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "31/12"         
       },
       {
          "identifier":"anonuevo3",
          "name":"Feliz Año Nuevo (3)",
          "animated_sticker_pack":false,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "31/12"         
       },
       {
          "identifier":"anonuevo4",
          "name":"Feliz Año Nuevo (4)",
          "animated_sticker_pack":true,
-         "stickers":"5"
+         "stickers":"5",
+         "date": "31/12"         
       },
       {
          "identifier":"anonuevoadornos",
          "name":"Adornos Año Nuevo",
          "animated_sticker_pack":true,
-         "stickers":"7"
+         "stickers":"7",
+         "date": "31/12"         
       },
       {
          "identifier":"navidad25",
          "name":"Feliz Navidad (29)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "25/12"
       },
       {
          "identifier":"navidad24",
          "name":"Feliz Navidad (28)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad23",
          "name":"Feliz Navidad (27)",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad22",
          "name":"Feliz Navidad (26)",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad21",
          "name":"Feliz Navidad (25)",
          "animated_sticker_pack":false,
-         "stickers":"27"
+         "stickers":"27",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad20",
          "name":"Feliz Navidad (24)",
          "animated_sticker_pack":false,
-         "stickers":"20"
+         "stickers":"20",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad19",
          "name":"Feliz Navidad (23)",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad18",
          "name":"Feliz Navidad (22)",
          "animated_sticker_pack":true,
-         "stickers":"11"
+         "stickers":"11",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad17",
          "name":"Feliz Navidad (21)",
          "animated_sticker_pack":true,
-         "stickers":"11"
+         "stickers":"11",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad16",
          "name":"Feliz Navidad (20)",
          "animated_sticker_pack":true,
-         "stickers":"21"
+         "stickers":"21",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad15",
          "name":"Feliz Navidad (19)",
          "animated_sticker_pack":true,
-         "stickers":"14"
+         "stickers":"14",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad14",
          "name":"Feliz Navidad (18)",
          "animated_sticker_pack":true,
-         "stickers":"14"
+         "stickers":"14",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad13",
          "name":"Feliz Navidad (17)",
          "animated_sticker_pack":true,
-         "stickers":"20"
+         "stickers":"20",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad12",
          "name":"Feliz Navidad (16)",
          "animated_sticker_pack":true,
-         "stickers":"20"
+         "stickers":"20",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad11",
          "name":"Feliz Navidad (15)",
          "animated_sticker_pack":true,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad10",
          "name":"Feliz Navidad (14)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad9",
          "name":"Feliz Navidad (13)",
          "animated_sticker_pack":true,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad8",
          "name":"Feliz Navidad (12)",
          "animated_sticker_pack":true,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad7",
          "name":"Feliz Navidad (11)",
          "animated_sticker_pack":true,
-         "stickers":"16"
+         "stickers":"16",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad6",
          "name":"Feliz Navidad (10)",
          "animated_sticker_pack":false,
-         "stickers":"11"
+         "stickers":"11",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad5",
          "name":"Feliz Navidad (9)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad4",
          "name":"Feliz Navidad (8)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "25/12"         
       },
       {
          "identifier":"navidadclubes1",
          "name":"Navidad Equipos (1)",
          "animated_sticker_pack":false,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "25/12"         
       },
       {
          "identifier":"navidadclubes2",
          "name":"Navidad Equipos (2)",
          "animated_sticker_pack":false,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad",
          "name":"Feliz Navidad (7)",
          "animated_sticker_pack":false,
-         "stickers":"25"
+         "stickers":"25",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad3",
          "name":"Feliz Navidad (2)",
          "animated_sticker_pack":true,
-         "stickers":"14"
+         "stickers":"14",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad1",
          "name":"Comida Navidad",
          "animated_sticker_pack":false,
-         "stickers":"30"
+         "stickers":"30",
+         "date": "25/12"         
       },
       {
          "identifier":"navidadcartoons",
          "name":"Feliz Navidad (6)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "25/12"         
       },
       {
          "identifier":"navidadpapanoel",
          "name":"Feliz Navidad (5)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "25/12"         
       },
       {
          "identifier":"navidadargentina",
          "name":"Feliz Navidad (4)",
          "animated_sticker_pack":true,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "25/12"         
       },
       {
          "identifier":"navidad2",
          "name":"Feliz Navidad",
          "animated_sticker_pack":false,
-         "stickers":"30"
+         "stickers":"30",
+         "date": "25/12"         
       },
       {
          "identifier":"navidadclubes1",
          "name":"Navidad Clubes (1)",
          "animated_sticker_pack":false,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "25/12"         
       },
       {
          "identifier":"navidadclubes2",
          "name":"Navidad Clubes (2)",
          "animated_sticker_pack":false,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "25/12"         
       },
       {
          "identifier":"mamanoel",
          "name":"Mamá Noel",
          "animated_sticker_pack":true,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "25/12"         
       },
       {
          "identifier":"saludospapanoel",
          "name":"Saludos Papá Noel",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "25/12"         
       },
       {
          "identifier":"christmastree",
          "name":"Arbol de Navidad",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "25/12"         
       },
       {
          "identifier":"verano",
          "name":"Verano (1)",
          "animated_sticker_pack":false,
-         "stickers":"16"
+         "stickers":"16",
+         "date": "21/12"         
+
       },
       {
          "identifier":"verano2023",
          "name":"Verano (2)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "21/12"         
       },
       {
          "identifier":"8diciembre",
          "name":"Día de la Virgen",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "08/12"                  
       },
       {
          "identifier":"6diciembre",
          "name":"Día del Gaucho",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "06/12"                           
       },
       {
          "identifier":"3diciembre",
          "name":"Día del Médico (1)",
          "animated_sticker_pack":false,
-         "stickers":"7"
+         "stickers":"7",
+         "date": "03/12"                                    
       },
       {
          "identifier":"3diciembrea1",
          "name":"Día del Médico (2)",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "03/12"                                             
       },
       {
          "identifier":"worldcup2026sorteo",
@@ -1552,13 +1676,15 @@
          "identifier":"10noviembre",
          "name":"Día de la Tradición (1)",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "10/11"                                             
       },
       {
          "identifier":"10noviembrea1",
          "name":"Día de la Tradición (2)",
          "animated_sticker_pack":true,
-         "stickers":"19"
+         "stickers":"19",
+         "date": "10/11"
       },
       {
          "identifier":"2025bocavsriver1",
@@ -1630,13 +1756,15 @@
          "identifier":"7noviembre",
          "name":"7 de Noviembre",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "07/11"         
       },
       {
          "identifier":"6noviembre",
          "name":"Día del Bancario",
          "animated_sticker_pack":false,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "06/11"                  
       },
       {
          "identifier":"seleccionargentinakit2026a",
@@ -1660,145 +1788,169 @@
          "identifier":"halloween",
          "name":"Halloween (1)",
          "animated_sticker_pack":false,
-         "stickers":"28"
+         "stickers":"28",
+         "date": "31/10"                           
       },
       {
          "identifier":"halloween2",
          "name":"Halloween 2",
          "animated_sticker_pack":true,
-         "stickers":"9"
+         "stickers":"9",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween3",
          "name":"Halloween (3)",
          "animated_sticker_pack":true,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween4",
          "name":"Halloween (4)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween5",
          "name":"Halloween (5)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween6",
          "name":"Halloween (6)",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween7",
          "name":"Halloween 7",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween8",
          "name":"Halloween 8",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween9",
          "name":"Halloween 9",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween10",
          "name":"Halloween 10",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween11",
          "name":"Halloween 11",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween12",
          "name":"Halloween 12",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween13",
          "name":"Halloween 13",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween14",
          "name":"Halloween 14",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween15",
          "name":"Halloween 15",
          "animated_sticker_pack":true,
-         "stickers":"20"
+         "stickers":"20",
+         "date": "31/10"                                    
       },
       {
          "identifier":"halloween16",
          "name":"Halloween 16",
          "animated_sticker_pack":true,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "31/10"                                    
       },
       {
          "identifier":"reaperskull1",
          "name":"Reaper Skull 1",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "31/10"                                    
       },
       {
          "identifier":"reaperskull2",
          "name":"Reaper Skull 2",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "31/10"                                    
       },
       {
          "identifier":"reaperskull3",
          "name":"Reaper Skull 3",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "31/10"                                    
       },
       {
          "identifier":"thething1",
          "name":"The Things 1",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "31/10"                                    
       },
       {
          "identifier":"thething2",
          "name":"The Things 2",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "31/10"                                    
       },
       {
          "identifier":"thething3",
          "name":"The Things 3",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "31/10"                                    
       },
       {
          "identifier":"funnypumpkins1",
          "name":"Funny Pumpkins 1",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "31/10"                                    
       },
       {
          "identifier":"funnypumpkins2",
          "name":"Funny Pumpkins 2",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "31/10"                                    
       },
       {
          "identifier":"seleccionargentinagol1",
@@ -1891,12 +2043,6 @@
          "stickers":"6"
       },
       {
-         "identifier":"17octubre",
-         "name":"Día de Lealtad Peronista",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
          "identifier":"minions1",
          "name":"Minions",
          "animated_sticker_pack":false,
@@ -1912,7 +2058,8 @@
          "identifier":"1octubrea1",
          "name":"Día del Café",
          "animated_sticker_pack":true,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "01/10"         
       },
       {
          "identifier":"kitligaarg2025a",
@@ -1954,25 +2101,29 @@
          "identifier":"20septiembre",
          "name":"Día del Jubilado (1)",
          "animated_sticker_pack":false,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "20/09"                  
       },
       {
          "identifier":"20septiembrea1",
          "name":"Día del Jubilado (2)",
          "animated_sticker_pack":true,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "20/09"                           
       },
       {
          "identifier":"20septiembrea2",
          "name":"Día del Jubilado (3)",
          "animated_sticker_pack":true,
-         "stickers":"7"
+         "stickers":"7",
+         "date": "20/09"                           
       },
       {
          "identifier":"13septiembre",
          "name":"Día del Programador",
          "animated_sticker_pack":false,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "13/09"                           
       },
       {
          "identifier":"buendia4",
@@ -1996,13 +2147,15 @@
          "identifier":"7septiembre",
          "name":"Día del Metalurgico",
          "animated_sticker_pack":false,
-         "stickers":"6"
+         "stickers":"6",
+         "date": "07/09"                                    
       },      
       {
          "identifier":"5septiembre",
          "name":"Día de los Hermanos",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "07/09"                                             
       },
       {
          "identifier":"buendiaa2",
@@ -2038,31 +2191,36 @@
          "identifier":"13agosto",
          "name":"Día del Zurdo",
          "animated_sticker_pack":false,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "13/08"                                             
       },
       {
          "identifier":"4agosto",
          "name":"Día del Panadero",
          "animated_sticker_pack":false,
-         "stickers":"7"
+         "stickers":"7",
+         "date": "04/08"                                                      
       },
       {
          "identifier":"2agostoa1",
          "name":"Día de la Cerveza (1)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "02/08"                                                      
       },
       {
          "identifier":"2agosto1",
          "name":"Día de la Cerveza (2)",
          "animated_sticker_pack":false,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "02/08"                                                               
       },
       {
          "identifier":"1agosto1",
          "name":"Día de la Pachamama",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "01/08"                                                               
       },
       {
          "identifier":"locomotorarip1",
@@ -2086,7 +2244,8 @@
          "identifier":"13julio",
          "name":"Día del Electricista",
          "animated_sticker_pack":false,
-         "stickers":"9"
+         "stickers":"9",
+         "date": "13/07"                                                                        
       },
       {
          "identifier":"bocaparedes",
@@ -2104,7 +2263,8 @@
          "identifier":"comidaspatrias1",
          "name":"Comidas Patrias",
          "animated_sticker_pack":false,
-         "stickers":"16"
+         "stickers":"16",
+         "date": "09/07"                                                                                 
       },
       {
          "identifier":"semanadeladulzura1",
@@ -2122,13 +2282,15 @@
          "identifier":"28junio",
          "name":"Día del Orgullo (1)",
          "animated_sticker_pack":false,
-         "stickers":"11"
+         "stickers":"11",
+         "date": "28/07"                                                                                          
       },
       {
          "identifier":"28junioa1",
          "name":"Día del Orgullo (2)",
          "animated_sticker_pack":true,
-         "stickers":"7"
+         "stickers":"7",
+         "date": "28/07"                                                                                                   
       },
       {
          "identifier":"nenapancarta1",
@@ -2158,13 +2320,15 @@
          "identifier":"invierno1",
          "name":"Invierno (1)",
          "animated_sticker_pack":false,
-         "stickers":"27"
+         "stickers":"27",
+         "date": "21/06"                                                                                                   
       },
       {
          "identifier":"inviernoa1",
          "name":"Invierno (2)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "21/06"                                                                                                            
       },
       {
          "identifier":"miguelmerentiel1",
@@ -2176,7 +2340,8 @@
          "identifier":"17junio1",
          "name":"Día de la Libertad Latinoamericana",
          "animated_sticker_pack":false,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "17/06"
       },
       {
          "identifier":"clubworldcup2025riverplate1",
@@ -2218,19 +2383,22 @@
          "identifier":"31mayo1",
          "name":"Día Mundial sin Tabaco (1)",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "31/05"         
       },
       {
          "identifier":"31mayoa1",
          "name":"Día Mundial sin Tabaco (2)",
          "animated_sticker_pack":true,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "31/05"                  
       },
       {
          "identifier":"28mayo1",
          "name":"Día Maestra Jardinera",
          "animated_sticker_pack":false,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "28/05"                  
       },
           
       {
@@ -2279,13 +2447,15 @@
          "identifier":"otono",
          "name":"Feliz Otoño (1)",
          "animated_sticker_pack":false,
-         "stickers":"9"
+         "stickers":"9",
+         "date": "21/03"                           
       },
       {
          "identifier":"otonoa1",
          "name":"Feliz Otoño (2)",
          "animated_sticker_pack":true,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "21/03"                                    
       },
       {
          "identifier":"findelargo1",
@@ -2387,7 +2557,8 @@
          "identifier":"13noviembre",
          "name":"Día del Cerrajero",
          "animated_sticker_pack":false,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "13/11"                                    
       },
       {
          "identifier":"trump2024",
@@ -2423,7 +2594,8 @@
          "identifier":"17septiembre",
          "name":"Día del Profesor",
          "animated_sticker_pack":false,
-         "stickers":"9"
+         "stickers":"9",
+         "date": "17/09"                                             
       },
       {
          "identifier":"saludos5",
@@ -2555,7 +2727,8 @@
          "identifier":"17junio1",
          "name":"Día de la Libertad Latinoamericana",
          "animated_sticker_pack":false,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "17/06"
       },
       {
          "identifier":"gordita",
@@ -2633,13 +2806,15 @@
          "identifier":"14febreroa1",
          "name":"San Valentín",
          "animated_sticker_pack":true,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "14/02"
       },
       {
          "identifier":"14febrero",
          "name":"Día de los Enamorados",
          "animated_sticker_pack":false,
-         "stickers":"27"
+         "stickers":"27",
+         "date": "14/02"         
       },
       {
          "identifier":"granhermano2023a1",
@@ -2681,7 +2856,8 @@
          "identifier":"anonuevo5",
          "name":"Feliz Año Nuevo (5)",
          "animated_sticker_pack":true,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "31/12"         
       },
       {
          "identifier":"anonuevo24a1",
@@ -2711,13 +2887,15 @@
          "identifier":"verano",
          "name":"Verano (1)",
          "animated_sticker_pack":false,
-         "stickers":"16"
+         "stickers":"16",
+         "date": "21/12"                  
       },
       {
          "identifier":"verano2023",
          "name":"Verano (2)",
          "animated_sticker_pack":true,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "21/12"                           
       },
       {
          "identifier":"granhermano2023b",
@@ -2831,7 +3009,8 @@
          "identifier":"12diciembre",
          "name":"Día del Hincha de Boca",
          "animated_sticker_pack":false,
-         "stickers":"12"
+         "stickers":"12",
+         "date": "12/12"                           
       },
       {
          "identifier":"mate",
@@ -2921,7 +3100,8 @@
          "identifier":"20noviembre",
          "name":"Día Soberania Nacional",
          "animated_sticker_pack":false,
-         "stickers":"9"
+         "stickers":"9",
+         "date": "20/11"                                    
       },
       {
          "identifier":"sergiomassa1",
@@ -2994,42 +3174,6 @@
          "name":"LGBT 2",
          "animated_sticker_pack":false,
          "stickers":"13"
-      },
-      {
-         "identifier":"halloween",
-         "name":"Halloween (1)",
-         "animated_sticker_pack":false,
-         "stickers":"28"
-      },
-      {
-         "identifier":"halloween2",
-         "name":"Halloween 2",
-         "animated_sticker_pack":true,
-         "stickers":"9"
-      },
-      {
-         "identifier":"halloween3",
-         "name":"Halloween (3)",
-         "animated_sticker_pack":true,
-         "stickers":"13"
-      },
-      {
-         "identifier":"halloween4",
-         "name":"Halloween (4)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"halloween5",
-         "name":"Halloween (5)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"halloween6",
-         "name":"Halloween (6)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
       },
       {
          "identifier":"messiballondor2023",
@@ -3180,30 +3324,6 @@
          "name":"Frases (10)",
          "animated_sticker_pack":false,
          "stickers":"16"
-      },
-      {
-         "identifier":"21septiembre3",
-         "name":"21 de Septiembre (3)",
-         "animated_sticker_pack":false,
-         "stickers":"8"
-      },
-      {
-         "identifier":"21septiembre2",
-         "name":"Día de la Sanidad",
-         "animated_sticker_pack":false,
-         "stickers":"9"
-      },
-      {
-         "identifier":"21septiembrea1",
-         "name":"21 de Septiembre (2)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
-      },
-      {
-         "identifier":"21septiembre",
-         "name":"21 de Septiembre (1)",
-         "animated_sticker_pack":false,
-         "stickers":"19"
       },
       {
          "identifier":"flordesaludos",
@@ -3368,12 +3488,6 @@
          "stickers":"15"
       },
       {
-         "identifier":"13julio",
-         "name":"Día del Electricista",
-         "animated_sticker_pack":false,
-         "stickers":"9"
-      },
-      {
          "identifier":"cutepolarbear1",
          "name":"Oso Polar (1)",
          "animated_sticker_pack":false,
@@ -3426,18 +3540,6 @@
          "name":"Frases Animadas 12",
          "animated_sticker_pack":true,
          "stickers":"15"
-      },
-      {
-         "identifier":"invierno1",
-         "name":"Invierno (1)",
-         "animated_sticker_pack":false,
-         "stickers":"27"
-      },
-      {
-         "identifier":"inviernoa1",
-         "name":"Invierno (2)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
       },
       {
          "identifier":"apellidos1",
@@ -3552,18 +3654,6 @@
          "name":"Pajin (2)",
          "animated_sticker_pack":true,
          "stickers":"16"
-      },
-      {
-         "identifier":"29abril2",
-         "name":"Día del Animal (2)",
-         "animated_sticker_pack":false,
-         "stickers":"25"
-      },
-      {
-         "identifier":"29abril1",
-         "name":"Día del Animal (1)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
       },
       {
          "identifier":"dolar500",
@@ -3701,7 +3791,8 @@
          "identifier":"7marzo",
          "name":"Día Hincha de Racing",
          "animated_sticker_pack":false,
-         "stickers":"16"
+         "stickers":"16",
+         "date": "07/03"         
       },
       {
          "identifier":"vueltaalcole",
@@ -4013,55 +4104,64 @@
          "identifier":"maradona2anios",
          "name":"Diego por Siempre (2)",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "25/11"                  
       },
       {
          "identifier":"maradona1anio",
          "name":"Diego por Siempre (1)",
          "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"10",
+         "date": "25/11"                  
       },
       {
          "identifier":"maradona7",
          "name":"Maradona (7)",
          "animated_sticker_pack":true,
-         "stickers":"21"
+         "stickers":"21",
+         "date": "25/11"                  
       },
       {
          "identifier":"maradona6",
          "name":"Maradona (6)",
          "animated_sticker_pack":true,
-         "stickers":"16"
+         "stickers":"16",
+         "date": "25/11"                  
       },
       {
          "identifier":"maradona5",
          "name":"Reacciones Maradona 2",
          "animated_sticker_pack":false,
-         "stickers":"30"
+         "stickers":"30",
+         "date": "25/11"                  
       },
       {
          "identifier":"maradona4",
          "name":"Reacciones Maradona 1",
          "animated_sticker_pack":false,
-         "stickers":"30"
+         "stickers":"30",
+         "date": "25/11"                  
       },
       {
          "identifier":"maradona3",
          "name":"Frases Maradona",
          "animated_sticker_pack":false,
-         "stickers":"30"
+         "stickers":"30",
+         "date": "25/11"                  
       },
       {
          "identifier":"ad10s",
          "name":"Pack AD10S",
          "animated_sticker_pack":false,
-         "stickers":"29"
+         "stickers":"29",
+         "date": "25/11"                  
       },
       {
          "identifier":"maradona",
          "name":"Pack Maradona",
          "animated_sticker_pack":false,
-         "stickers":"28"
+         "stickers":"28",
+         "date": "25/11"                  
       },
       {
          "identifier":"worldcup2022GCargentinavssaudiarabia1",
@@ -4238,12 +4338,6 @@
          "stickers":"25"
       },
       {
-         "identifier":"halloween",
-         "name":"Pack Halloween",
-         "animated_sticker_pack":false,
-         "stickers":"28"
-      },
-      {
          "identifier":"lpf2022c1",
          "name":"Boca Campeón LPF 2022",
          "animated_sticker_pack":false,
@@ -4277,13 +4371,8 @@
          "identifier":"3octubre",
          "name":"Día del Odontologo",
          "animated_sticker_pack":false,
-         "stickers":"6"
-      },
-      {
-         "identifier":"28septiembre",
-         "name":"Día del Hincha River",
-         "animated_sticker_pack":false,
-         "stickers":"10"
+         "stickers":"6",
+         "date": "03/10"                           
       },
       {
          "identifier":"seleccionamistosos2022a",
@@ -4295,19 +4384,22 @@
          "identifier":"7octubre",
          "name":"Nuestra Senora del Rosario",
          "animated_sticker_pack":false,
-         "stickers":"6"
+         "stickers":"6",
+         "date": "07/10"                           
       },
       {
          "identifier":"carlitosbala2",
          "name":"Adios Carlitos",
          "animated_sticker_pack":false,
-         "stickers":"11"
+         "stickers":"11",
+         "date": "22/09"         
       },
       {
          "identifier":"carlitosbala1",
          "name":"Carlitos Balá",
          "animated_sticker_pack":false,
-         "stickers":"19"
+         "stickers":"19",
+         "date": "22/09"                  
       },
       {
          "identifier":"worldcup2022argentina",
@@ -4356,18 +4448,6 @@
          "name":"Dias (2)",
          "animated_sticker_pack":true,
          "stickers":"11"
-      },
-      {
-         "identifier":"11septiembre",
-         "name":"Dia del Maestro (1)",
-         "animated_sticker_pack":false,
-         "stickers":"13"
-      },
-      {
-         "identifier":"11septiembrea1",
-         "name":"Dia del Maestro (2)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
       },
       {
          "identifier":"manuginobili1",
@@ -4421,7 +4501,8 @@
          "identifier":"27deagosto",
          "name":"Día de la Radio",
          "animated_sticker_pack":true,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "27/08"
       },
       {
          "identifier":"figuritasqatar22",
@@ -4482,18 +4563,6 @@
          "name":"Frutas Animadas",
          "animated_sticker_pack":true,
          "stickers":"13"
-      },
-      {
-         "identifier":"9julio",
-         "name":"Dia de la Independencia (1)",
-         "animated_sticker_pack":false,
-         "stickers":"18"
-      },
-      {
-         "identifier":"9julioa1",
-         "name":"Dia de la Independencia (2)",
-         "animated_sticker_pack":true,
-         "stickers":"11"
       },
       {
          "identifier":"memesconfrases1",
@@ -4625,7 +4694,8 @@
          "identifier":"2mayo",
          "name":"ARA Gral. Belgrano",
          "animated_sticker_pack":false,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "02/05"
       },
       {
          "identifier":"buendia3",
@@ -4643,7 +4713,8 @@
          "identifier":"23abril1",
          "name":"Día del Libro",
          "animated_sticker_pack":false,
-         "stickers":"15"
+         "stickers":"15",
+         "date": "23/04"         
       },
       {
          "identifier":"elhoteldelosfamosos1",
@@ -4661,7 +4732,8 @@
          "identifier":"19abril1",
          "name":"San Expedito",
          "animated_sticker_pack":false,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "19/04"                  
       },
       {
          "identifier":"plantasconfrases1",
@@ -4673,7 +4745,8 @@
          "identifier":"8abril",
          "name":"Día Empanada",
          "animated_sticker_pack":true,
-         "stickers":"11"
+         "stickers":"11",
+         "date": "08/04"                           
       },
       {
          "identifier":"qatar2022a",
@@ -4721,7 +4794,8 @@
          "identifier":"21marzo",
          "name":"Día Especial",
          "animated_sticker_pack":false,
-         "stickers":"13"
+         "stickers":"13",
+         "date": "21/03"                           
       },
       {
          "identifier":"gaspi1",
@@ -4991,7 +5065,8 @@
          "identifier":"30noviembre",
          "name":"Hincha San Lorenzo",
          "animated_sticker_pack":false,
-         "stickers":"9"
+         "stickers":"9",
+         "date": "30/11"                           
       },
       {
          "identifier":"messiballondor2021",
@@ -5144,12 +5219,6 @@
          "stickers":"14"
       },
       {
-         "identifier":"12octubre",
-         "name":"Dia de la Diversidad",
-         "animated_sticker_pack":false,
-         "stickers":"12"
-      },
-      {
          "identifier":"leyetiquetado",
          "name":"Ley de Etiquetado",
          "animated_sticker_pack":false,
@@ -5160,12 +5229,6 @@
          "name":"Momentos de la TV",
          "animated_sticker_pack":true,
          "stickers":"16"
-      },
-      {
-         "identifier":"3octubre",
-         "name":"Dia del Odontologo",
-         "animated_sticker_pack":false,
-         "stickers":"6"
       },
       {
          "identifier":"peregrinacionlujan",
@@ -5421,9 +5484,10 @@
       },
       {
          "identifier":"diadelacerveza",
-         "name":"Dia de la Cerveza",
+         "name":"Día Nacional de la Cerveza",
          "animated_sticker_pack":false,
-         "stickers":"11"
+         "stickers":"11",
+         "date": "31/05"         
       },
       {
          "identifier":"vamoslospi",
@@ -5534,36 +5598,6 @@
          "stickers":"14"
       },
       {
-         "identifier":"20julio3",
-         "name":"Dia del Amigo (5)",
-         "animated_sticker_pack":false,
-         "stickers":"24"
-      },
-      {
-         "identifier":"20julio2",
-         "name":"Dia del Amigo (4)",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"20julioa2",
-         "name":"Dia del Amigo (3)",
-         "animated_sticker_pack":true,
-         "stickers":"16"
-      },
-      {
-         "identifier":"20julioa1",
-         "name":"Dia del Amigo (2)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
-      },
-      {
-         "identifier":"20julio",
-         "name":"Dia del Amigo (1)",
-         "animated_sticker_pack":false,
-         "stickers":"17"
-      },
-      {
          "identifier":"latanaferro1",
          "name":"La Tana Ferro (1)",
          "animated_sticker_pack":true,
@@ -5666,18 +5700,6 @@
          "stickers":"13"
       },
       {
-         "identifier":"28junio",
-         "name":"Dia del Orgullo (1)",
-         "animated_sticker_pack":false,
-         "stickers":"11"
-      },
-      {
-         "identifier":"28junioa1",
-         "name":"Dia del Orgullo (2)",
-         "animated_sticker_pack":true,
-         "stickers":"7"
-      },
-      {
          "identifier":"momentosnuestros",
          "name":"Momentos Nuestros",
          "animated_sticker_pack":true,
@@ -5694,18 +5716,6 @@
          "name":"Comidas Locas",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },
-      {
-         "identifier":"20junio",
-         "name":"Dia de la Bandera (1)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"20junioa1",
-         "name":"Dia de la Bandera (2)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
       },
       {
          "identifier":"damianbetular1",
@@ -5920,18 +5930,6 @@
       {
          "identifier":"albertofernandez1",
          "name":"Alberto Fernandez",
-         "animated_sticker_pack":true,
-         "stickers":"14"
-      },
-      {
-         "identifier":"1mayo",
-         "name":"Dia del Trabajador",
-         "animated_sticker_pack":false,
-         "stickers":"25"
-      },
-      {
-         "identifier":"1mayoa",
-         "name":"Dia del Trabajador",
          "animated_sticker_pack":true,
          "stickers":"14"
       },
@@ -6171,9 +6169,10 @@
       },
       {
          "identifier":"23enero",
-         "name":"Dia del Musico",
+         "name":"Día del Musico",
          "animated_sticker_pack":false,
-         "stickers":"11"
+         "stickers":"11",
+         "date": "23/01"
       },
       {
          "identifier":"yaninalatorre",
@@ -6380,12 +6379,6 @@
          "stickers":"30"
       },
       {
-         "identifier":"9julio",
-         "name":"Pack 9 de Julio",
-         "animated_sticker_pack":false,
-         "stickers":"18"
-      },
-      {
          "identifier":"sincodificar",
          "name":"Pack Sin Codificar",
          "animated_sticker_pack":false,
@@ -6431,7 +6424,8 @@
          "identifier":"10junio",
          "name":"Pack Día de la Cruz Roja Argentina",
          "animated_sticker_pack":false,
-         "stickers":"8"
+         "stickers":"8",
+         "date": "10/06"         
       },
       {
          "identifier":"listorti",
@@ -6510,12 +6504,6 @@
          "name":"Pack Yerba",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },
-      {
-         "identifier":"1mayo",
-         "name":"Pack Dia del Trabajador",
-         "animated_sticker_pack":false,
-         "stickers":"25"
       },
       {
          "identifier":"historietas2",
