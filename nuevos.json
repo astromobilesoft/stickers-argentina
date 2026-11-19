@@ -2,11 +2,23 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickerarg",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {
+         "identifier":"19noviembre",
+         "name":"Día del Hombre",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
        {
          "identifier":"graciosos4",
          "name":"Graciosos (4)",
          "animated_sticker_pack":false,
          "stickers":"15"
+      },
+       {
+         "identifier":"20noviembre",
+         "name":"Día Soberania Nacional",
+         "animated_sticker_pack":false,
+         "stickers":"9"
       },
       {
          "identifier": "gta6a",
@@ -3158,12 +3170,6 @@
          "name":"Brasil vs Argentina",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },
-      {
-         "identifier":"20noviembre",
-         "name":"Día Soberania Nacional",
-         "animated_sticker_pack":false,
-         "stickers":"9"
       },
       {
          "identifier":"sergiomassa1",

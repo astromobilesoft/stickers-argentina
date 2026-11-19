@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"19noviembre",
+         "name":"Día del Hombre",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+       {
+         "identifier":"20noviembre",
+         "name":"Día Soberania Nacional",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
          "identifier":"diadelosmuertos",
          "name":"Dia de los Muertos",
          "animated_sticker_pack":false,
@@ -932,12 +944,6 @@
          "name":"Día del Médico (2)",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },
-      {
-         "identifier":"20noviembre",
-         "name":"Día Soberania Nacional",
-         "animated_sticker_pack":false,
-         "stickers":"9"
       },
       {
          "identifier":"7noviembre",
