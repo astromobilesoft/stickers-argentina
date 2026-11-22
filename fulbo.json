@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2026bocajuniors3",
+         "name":"Boca Juniors(3)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"2026bocajuniors2",
+         "name":"Boca Juniors(2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"seleccionamistosos2026f",
          "name":"Arg. vs CR",
          "animated_sticker_pack":false,
